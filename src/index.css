@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Bentley-Light';
+  src: url('../public/fonts/Bentley-Light.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bentley-Regular';
+  src: url('../public/fonts/Bentley-Regular.woff') format('woff');
+}
+
+.btn {
+  letter-spacing: 0.1rem;
+}
+.btn-primary {
+  color: #ffffff;
+}
