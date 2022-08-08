@@ -7,7 +7,7 @@ export default function Header() {
         <Link to="/">
           <h1 className="flex items-center">
             <img
-              className="w-28 md:w-32 lg:w-36"
+              className="w-28 md:w-32"
               src="/images/BM_logo.jpg"
               alt="bentley logo"
             />
