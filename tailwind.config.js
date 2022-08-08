@@ -2,10 +2,17 @@
 module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
+    container: {
+      center: true,
+      padding: {
+        DEFAULT: '1rem',
+        sm: '2rem',
+      },
+    },
     extend: {
       fontFamily: {
         bentleyLight: ['Bentley-Light', 'Noto Sans JP', 'sans-serif'],
-        bentleyRegular: ['Bentley-Regular', 'sans-serif'],
+        bentleyRegular: ['Bentley-Regular', 'Noto Sans JP', 'sans-serif'],
       },
     },
   },
