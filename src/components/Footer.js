@@ -3,7 +3,7 @@ export default function Footer() {
 
   return (
     <footer>
-      <div className="container border-t border-base-300 h-40 py-10">
+      <div className="container border-t border-base-300 h-32 py-5">
         <p className="text-sm text-secondary">
           &copy; Copyright Bentley Motors Japan {footerYear}
         </p>
