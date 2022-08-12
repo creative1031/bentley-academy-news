@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 // components
 import Header from './components/Header'
 import Footer from './components/Footer'
+import SearchBar from './components/SearchBar'
 
 // pages
 import Home from './pages/Home'
@@ -14,7 +15,10 @@ function App() {
     <div className="font-bentleyLight font-light">
       <BrowserRouter>
         <div className="flex flex-col justify-between min-h-screen">
-          <Header />
+          <div>
+            <Header />
+            <SearchBar />
+          </div>
           <main className="container">
             <Routes>
               <Route path="/" element={<Home />} />
