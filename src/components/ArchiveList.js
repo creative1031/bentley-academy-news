@@ -5,8 +5,8 @@ export default function ArchiveList({ archives }) {
     <div className="py-10">
       <ul className="grid grid-cols-2 gap-5 sm:grid-cols-3 md:grid-cols-3 md:gap-10 lg:grid-cols-4 xl:grid-cols-5">
         {archives.map((archive) => (
-          <div>
-            <li key={archive.issue} className="mb-3">
+          <div key={archive.issue}>
+            <li className="mb-3">
               <label htmlFor={archive.issue}>
                 <img
                   src={archive.image}

@@ -2,11 +2,16 @@ import PDFicon from '../assets/pdf-icon.svg'
 
 export default function NewRelease({ latestIssue }) {
   return (
-    <div className="flex flex-col mb-10 lg:flex-row xl:mb-0">
-      <a href={latestIssue.pdf} className="lg:mr-10">
+    <div className="flex flex-col lg:flex-row xl:w-4/5 xl:mx-auto">
+      <a
+        href={latestIssue.pdf}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="lg:mr-10"
+      >
         <img
           src={latestIssue.image}
-          alt=""
+          alt={latestIssue.issue}
           className="mx-auto w-4/5 border border-gray-400 md:w-96"
         />
       </a>
@@ -14,7 +19,11 @@ export default function NewRelease({ latestIssue }) {
         <div>
           <div className="border-b border-gray-400 mb-5 pb-2 flex justify-between items-center">
             <div className="flex">
-              <a href={latestIssue.pdf}>
+              <a
+                href={latestIssue.pdf}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <img src={PDFicon} alt="" className="w-8 mr-2" />
               </a>
               <h2 className="text-2xl">

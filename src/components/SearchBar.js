@@ -1,16 +1,19 @@
-import { useState } from 'react'
+import { useState, useContext } from 'react'
 import { useNavigate } from 'react-router-dom'
+import { SearchTermContext } from '../context/SearchTermContext'
 
 export default function SearchBar() {
   const [searchTerm, setSearchTerm] = useState('')
   const navigate = useNavigate()
 
+  const { changeTerm } = useContext(SearchTermContext)
+
   const handleSubmit = (e) => {
     e.preventDefault()
 
     navigate('/search')
+    changeTerm(searchTerm)
     setSearchTerm('')
-    console.log(searchTerm)
   }
 
   return (
@@ -46,8 +49,8 @@ export default function SearchBar() {
         </div>
 
         <div className="text-center mx-auto mt-8 px-5  max-w-screen-xl">
-          <p className="text-sm">モデル名で検索</p>
-          <ul className="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
+          <p className="text-sm">モデル検索</p>
+          <ul className="mt-5 mx-auto grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 lg:w-4/5">
             <li
               className="modelBtn"
               onClick={() => setSearchTerm('ベンテイガ')}
@@ -78,9 +81,9 @@ export default function SearchBar() {
             >
               Mulsanne
             </li>
-            <li className="modelBtn" onClick={() => setSearchTerm('マリナー')}>
+            {/* <li className="modelBtn" onClick={() => setSearchTerm('マリナー')}>
               Mulliner
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>

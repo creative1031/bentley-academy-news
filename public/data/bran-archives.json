@@ -1,5 +1,59 @@
 [
   {
+    "issue": 129,
+    "year": 2022,
+    "month": 7,
+    "image": "/images/129.jpg",
+    "pdf": "/pdf/129.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "",
+        "title": "世界で最もウェルビーイングにフォーカスしたシート エアラインシート スペシフィケーション"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ラグジュアリーセダン初のBEVもラインアップ BMW 7シリーズ"
+      },
+      {
+        "page": 3,
+        "category": "BRAND STORY",
+        "title": "ブランドストーリー BMW 7シリーズ"
+      },
+      {
+        "page": 4,
+        "category": "HERITAGE",
+        "title": "コンティニュエーション シリーズ第2弾 スピード6の “新車 ”を12台限定で製造"
+      },
+      {
+        "page": 5,
+        "category": "AWARDS",
+        "title": "コンチネンタルGTとフライングスパーがROBB REPORTの2つの賞を受賞"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "世界最古のベントレーがマン島に帰還"
+      },
+      {
+        "page": 5,
+        "category": "SUSTAINABILITY",
+        "title": "ベントレーがNFTの領域に進出 今年9月に208の事例を公開予定"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "女性向けメンタリング プログラム 第一期が成功裏に終了"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "カーコネクティビティの今"
+      }
+    ]
+  },
+  {
     "issue": 128,
     "year": 2022,
     "month": 6,
@@ -8,34 +62,42 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "ベントレーの新デリバティブ戦略 AzureとSを発表"
       },
       {
         "page": 2,
+        "category": "PRODUCTS",
         "title": "Azureモデルの特徴 Sモデルの特徴"
       },
       {
         "page": 3,
+        "category": "COMPETITOR INFORMATION",
         "title": "3代目に生まれ変わった ランドローバー・レンジローバー スポーツ"
       },
       {
         "page": 4,
+        "category": "HERITAGE",
         "title": "コンチネンタル70年の歩み 究極のグランドツアラーの系譜"
       },
       {
         "page": 5,
+        "category": "MULLINER",
         "title": "マリナーの新しい構成 3つのレベルで究極のベントレーを提供"
       },
       {
         "page": 5,
+        "category": "BRAND",
         "title": "グローバルで一貫性あるアイコン 新しい3Dブランド表現"
       },
       {
         "page": 5,
+        "category": "MARKETING",
         "title": "ECJの実現に向け「特別な瞬間」での役割にご理解を"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "4WDの基礎知識（後編） 4WDをどのように活用するのか？"
       }
     ]
@@ -49,38 +111,47 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "ベンテイガ EWB発表 待望のロングホイールベース"
       },
       {
         "page": 2,
+        "category": "NEW MODEL",
         "title": "ベンテイガ EWBの主な特徴"
       },
       {
         "page": 3,
+        "category": "COMPETITOR INFORMATION",
         "title": "V6＋PHEVの新世代モデル フェラーリ 296GTB/296GTS"
       },
       {
         "page": 4,
+        "category": "BRAND STORY",
         "title": "ブランドストーリー　フェラーリV6モデル"
       },
       {
         "page": 4,
+        "category": "MULLINER",
         "title": "マリナーのパーソナライズが急成長　新オプションを導入"
       },
       {
         "page": 5,
+        "category": "FINANCE",
         "title": "2022年第1四半期で過去最高益 前年に続き好調を維持"
       },
       {
         "page": 5,
+        "category": "BEYOND 100",
         "title": "クルーの「ドリームファクトリー」で環境負荷の削減を継続中"
       },
       {
         "page": 5,
+        "category": "HYBRID",
         "title": "フライングスパー ハイブリッドが「最も効率的なベントレー」と認定"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "4WDの基礎知識（前編） 4WDのレイアウトと部品"
       }
     ]
@@ -94,38 +165,47 @@
     "contents": [
       {
         "page": 1,
+        "category": "BEYOND 100",
         "title": "アースデーを機に考える ベントレーのサステナビリティへの取り組み"
       },
       {
         "page": 3,
+        "category": "COMPETITOR INFORMATION",
         "title": "新世代を象徴するスーパースポーツ マセラティ MC20"
       },
       {
         "page": 4,
+        "category": "BRAND STORY",
         "title": "ブランドストーリー マセラティ"
       },
       {
         "page": 4,
+        "category": "HERITAGE",
         "title": "ベントレーがグッドウッドの公式パートナーに ヘリテージコレクションに追加の6台を展示"
       },
       {
         "page": 5,
+        "category": "RETAILER",
         "title": "ベントレー名古屋がショールームを中区に移転しリニューアルオープン"
       },
       {
         "page": 5,
+        "category": "HERITAGE",
         "title": "世界最古のTシリーズのレストアを開始"
       },
       {
         "page": 5,
+        "category": "COMPANY",
         "title": "ベントレー モーターズ2021年決算 売上高、営業利益ともに過去最高を記録"
       },
       {
         "page": 5,
+        "category": "MEDIA",
         "title": "ベントレー、Naim、マッツァーロが三位一体で最高の車載サウンドを制作"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "クルマのライフサイクルアセスメント"
       }
     ]
@@ -139,38 +219,47 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "英国のリテーラーがカーボンニュートラルを達成　日本の販売店でも本格始動"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "最もパワフルなラグジュアリーSUV アストンマーティン DBX707"
       },
       {
         "page": 3,
+        "category": "BRAND STORY",
         "title": "ブランドストーリー　アストンマーティン DBシリーズ"
       },
       {
         "page": 3,
+        "category": "BEYOND 100",
         "title": "ベントレーが女子学生向けのメンタリングプログラムを開始"
       },
       {
         "page": 4,
+        "category": "HERITAGE",
         "title": "エポックメイキングなモデルで振り返るベントレー モーターズの歴史"
       },
       {
         "page": 5,
+        "category": "RETAILER",
         "title": "ベントレー札幌がリニューアルオープン"
       },
       {
         "page": 5,
+        "category": "AFTER SALES",
         "title": "“正規販売店に入庫すべき理由”にご協力いただきありがとうございました"
       },
       {
         "page": 5,
+        "category": "MEDIA",
         "title": "人気モータージャーナリストらがベンテイガ ハイブリッドの動画を続々と公開"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "自動車工場で装着されるタイヤと市販されているタイヤは、どう違う？＜後編＞"
       }
     ]
@@ -184,38 +273,47 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "Beyond 100戦略をさらに加速 2025年からの5年間でBEVを計5車種発売"
       },
       {
         "page": 2,
+        "category": "BEYOND 100",
         "title": "新構想「ドリームファクトリー」とラインアップ拡充"
       },
       {
         "page": 3,
+        "category": "COMPETITOR INFORMATION",
         "title": "スポーツカーも電動化が加速　競合ブランドのPHEV事情"
       },
       {
         "page": 4,
+        "category": "AWARDS",
         "title": "11年連続でトップ エンプロイヤーに認定"
       },
       {
         "page": 5,
+        "category": "COMPANY",
         "title": "ハイテク機器を備えた設備に300万ポンドの大型投資"
       },
       {
         "page": 5,
+        "category": "PRDUCTS",
         "title": "米国でフライングスパーPHEV試乗会実施 走行距離の30％が電気のみ"
       },
       {
         "page": 5,
+        "category": "AWARDS",
         "title": "コンチネンタルGTが3つの主要市場で重要な賞を受賞"
       },
       {
         "page": 5,
+        "category": "MEDIA",
         "title": "フライングスパー マリナーのリテーラー向け素材などがDL可能に"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "自動車工場で装着されるタイヤと市販されているタイヤは、どう違う？＜前編＞"
       }
     ]
@@ -229,38 +327,47 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "2021年の全世界の売台数は14,659台 日本も過去最の596台を記録"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "ハイエンドモデルも登場予定 競合ブランドのBEV事情"
       },
       {
         "page": 3,
+        "category": "AWARDS",
         "title": "2021年に全世界でベントレーが受けた栄誉は10個"
       },
       {
         "page": 4,
+        "category": "MULLINER",
         "title": "マリナーが新作を発表 アウトドア仕様のベンテイガ"
       },
       {
         "page": 5,
+        "category": "ENVIRONMENT",
         "title": "12カ月で233トンのCO2削減に成功 クルーの物流のバイオ燃料使用で"
       },
       {
         "page": 5,
+        "category": "FACTORY",
         "title": "新エンジニアリングテスト施設が公式認定を受け操業開始"
       },
       {
         "page": 5,
+        "category": "COMPANY",
         "title": "チェシャー地方でのチャリティーを強化 基金通じコミュニティの復興を支援"
       },
       {
         "page": 5,
+        "category": "MARKETING",
         "title": "ハイブリッド キャンペーンのSNS用素材が利用可能に"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "世界のクルマの単位"
       }
     ]
@@ -274,38 +381,47 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "コンチネンタルGTにマリナー ブラックライン登場"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "7代目に進化した最新スポーツカー メルセデスAMG SL"
       },
       {
         "page": 3,
+        "category": "BRAND STORY",
         "title": "ブランドストーリー：メルセデス・ベンツ SL"
       },
       {
         "page": 3,
+        "category": "EVENT",
         "title": "東京ミッドタウンのイベントでフライングスパー ハイブリッドを公開"
       },
       {
         "page": 4,
+        "category": "HERITAGE",
         "title": "お客様向けの車両製造から100周年"
       },
       {
         "page": 5,
+        "category": "SDGs",
         "title": "クルーから魔法のようなクリスマスサプライズ"
       },
       {
         "page": 5,
+        "category": "RETAILER",
         "title": "ベントレー大阪がリニューアルオープン 心斎橋に国内最大級のショールーム誕生"
       },
       {
         "page": 5,
+        "category": "ACADEMY",
         "title": "eAcademyのアンケート結果 アクセス状況と満足度は？"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "冬タイヤの基本"
       }
     ]
@@ -319,38 +435,47 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "ベンテイガ ハイブリッド 日本導入を正式発表"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "ラグジュアリーSUVのパイオニアが第5世代に進化 新型レンジローバー"
       },
       {
         "page": 3,
+        "category": "ENVIRONMENT",
         "title": "フライングスパー ハイブリッドが再生可能エネルギーでアイスランドを横断"
       },
       {
         "page": 4,
+        "category": "MULLINER",
         "title": "フォート ローダーデールでマリナーの新作を公開"
       },
       {
         "page": 5,
+        "category": "PRODUCTS",
         "title": "動画「コンチネンタル ドリフト」でGT Speedのシャシー性能の高さを知る"
       },
       {
         "page": 5,
+        "category": "AWARDS",
         "title": "ベントレーの電気系エンジニアが自動車業界を活気づけた女性30人に選出"
       },
       {
         "page": 5,
+        "category": "OPTION",
         "title": "ボディを保護する新オプション ペイント プロテクション フィルム"
       },
       {
         "page": 5,
+        "category": "COLLECTION",
         "title": "プレゼントにはベントレー コレクションを"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "「ツイン」と「ツインスクロール」とはターボの種類と特徴"
       }
     ]
@@ -364,43 +489,97 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "競合ブランドの2021年 気になる売れ筋モデルは？"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "BEVに対する各社の本気度が見られたIAA MOBILITY 2021"
       },
       {
         "page": 3,
+        "category": "COMPANY",
         "title": "ベントレー史上最多の研修生を受け入れ"
       },
       {
-        "page": 3,
-        "title": "ベントレーが自動車業界で初めてレザー ワーキング グループに加盟"
-      },
-      {
         "page": 4,
+        "category": "HERITAGE",
         "title": "クルーでのデザイン開始から70年 1930年代にルーツを持つボディカラーも発見"
       },
       {
         "page": 5,
+        "category": "AWARDS",
         "title": "ベンテイガ SpeedがWardsAutoの10ベスト インテリアに選出"
       },
       {
         "page": 5,
+        "category": "MEDIA",
         "title": "ライフスタイル・メディアのエディターが見たベントレー"
       },
       {
         "page": 5,
+        "category": "ENVIRONMENT",
         "title": "「#GOTOZERO」計画に基づきサステイナブルなラグジュアリーへの取り組みを加速"
       },
       {
         "page": 5,
+        "category": "ENVIRONMENT",
         "title": "ホールマークCEOのお気に入りの木が英国の著名な写真家の写真集に掲載"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "衝突被害軽減自動ブレーキ（AEBS）の限界"
+      }
+    ]
+  },
+  {
+    "issue": "120-特別号",
+    "year": 2021,
+    "month": 10,
+    "image": "/images/120-2.jpg",
+    "pdf": "/pdf/120-2.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "",
+        "title": "ベンテイガ ハイブリッド日本導入"
+      },
+      {
+        "page": 2,
+        "category": "PRODUCT",
+        "title": "ベンテイガ ハイブリッドの特徴"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITORS INFORMATION",
+        "title": "ベンテイガ ハイブリッドの競合車に対するUSP"
+      },
+      {
+        "page": 5,
+        "category": "COST",
+        "title": "プラグインハイブリッド購入のメリット（制度・コスト編）"
+      },
+      {
+        "page": 6,
+        "category": "MARKETING",
+        "title": "ベンテイガ ハイブリッド購入のメリット 使用シーン別、想定顧客別のアピールポイント"
+      },
+      {
+        "page": 7,
+        "category": "MARKETING",
+        "title": "セールスを後押しする各種施策"
+      },
+      {
+        "page": 8,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "PHEVを理解するための基礎知識"
+      },
+      {
+        "page": 9,
+        "category": "Q&A",
+        "title": "お客様との想定問答集"
       }
     ]
   },
@@ -413,42 +592,52 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "モントレー カー ウイークで新型6車種を初めて公開"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "人気のヘリテージカラーも復活 日産 GT-R 2022年モデル"
       },
       {
         "page": 3,
+        "category": "COMPETITOR INFORMATION",
         "title": "2代目NSXの集大成 ホンダ NSX Type S"
       },
       {
         "page": 3,
+        "category": "ENVIRONMENT",
         "title": "ベントレーが自動車業界で初めてレザー ワーキング グループに加盟"
       },
       {
         "page": 4,
+        "category": "MULLINER",
         "title": "バカラルとブロワーの最初のお客様向け車両が完成"
       },
       {
         "page": 5,
+        "category": "HYBRID",
         "title": "マッカラン エステートに専用仕様のベンテイガ ハイブリッドを納車"
       },
       {
         "page": 5,
+        "category": "COMMUNITY",
         "title": "スピーカーズ・フォー・スクールと提携しデジタルでの就業体験を提供"
       },
       {
         "page": 5,
+        "category": "COLLECTION",
         "title": "ベントレー コレクションの再販含む新作をリリース"
       },
       {
         "page": 5,
+        "category": "MEDIA",
         "title": "各分野の「プロ」が語るベントレー　BE AT TOKYO CEO：土井地博氏"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "ダンパー（ショックアブソーバー）は何をしているのか？"
       }
     ]
@@ -462,42 +651,52 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "グローバルの上半期販売台数は過去最高を記録 日本は過去2番目の好調"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "至高の室内空間を備えた最高級SUV メルセデス・マイバッハ GLS 600 4MATIC"
       },
       {
         "page": 3,
+        "category": "BRAND STORY",
         "title": "ブランドストーリー：メルセデス・ベンツ SUV"
       },
       {
         "page": 3,
+        "category": "LIMITED EDITION",
         "title": "フライングスパー ハイブリッド オデッシアン エディション登場"
       },
       {
         "page": 4,
+        "category": "NEW MODEL",
         "title": "4ドア グランドツアラーの頂点 フライングスパー マリナー登場"
       },
       {
         "page": 5,
+        "category": "BREITLING",
         "title": "19年にわたるブライトリングとのパートナーシップに幕"
       },
       {
         "page": 5,
+        "category": "MULLINER",
         "title": "マリナーがベンテイガ用の22インチカーボンファイバーホイールを開発"
       },
       {
         "page": 5,
+        "category": "MULLINER",
         "title": "マリナーのビスポーク事例が1000件を突破"
       },
       {
         "page": 5,
+        "category": "MEDIA",
         "title": "各分野の「プロ」が語るベントレー 鈑金職人：菅野敬一氏"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "内装マテリアルのトレンド"
       }
     ]
@@ -511,42 +710,52 @@
     "contents": [
       {
         "page": 1,
+        "category": "NEW MODEL",
         "title": "世界で最も環境に配慮したラグジュアリー セダン フライングスパー ハイブリッド登場"
       },
       {
         "page": 2,
+        "category": "NEW MODEL",
         "title": "フライングスパー ハイブリッドの特徴"
       },
       {
         "page": 3,
+        "category": "COMPETITOR INFORMATION",
         "title": "後席乗員の快適性をさらに追求 新型メルセデス・マイバッハ Sクラス"
       },
       {
         "page": 4,
+        "category": "BRAND STORY",
         "title": "ブランドストーリー マイバッハ"
       },
       {
         "page": 4,
+        "category": "FEATURES",
         "title": "これまで以上の快適性を提供するアダプティブ ミュージック"
       },
       {
         "page": 5,
+        "category": "MOTOR SPORT",
         "title": "パイクスピークでコンチネンタルGT3がサスティナブル燃料の可能性を示す"
       },
       {
         "page": 5,
+        "category": "AWARDS",
         "title": "フライングスパーがROBB REPORTのベスト オートモーティブ インテリア賞を受賞"
       },
       {
         "page": 5,
+        "category": "COLLABORATION",
         "title": "マッカランとの提携により持続可能な未来へのビジョンを推進"
       },
       {
         "page": 5,
+        "category": "MEDIA",
         "title": "各分野の「プロ」が語るベントレー クリエイティブディレクター：前田陽一郎氏"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "最新ステアリングのトレンド"
       }
     ]
@@ -560,38 +769,47 @@
     "contents": [
       {
         "page": 1,
+        "category": "NEW MODEL",
         "title": "スポーティさを全面に出したベンテイガ S登場"
       },
       {
         "page": 2,
+        "category": "NEW MODEL",
         "title": "ベンテイガ SのUSP"
       },
       {
         "page": 3,
+        "category": "COMPETITOR INFORMATION",
         "title": "PHEVの次世代スポーツカーを本格導入 マクラーレン・アルトゥーラ"
       },
       {
         "page": 4,
+        "category": "BEYOND 100",
         "title": "ダイバーシティ＆インクルージョンをユニファイング・スパーで表現"
       },
       {
         "page": 5,
+        "category": "AWARDS",
         "title": "『AUROCAR』誌のイノベーション アワードを受賞"
       },
       {
         "page": 5,
+        "category": "BESPOKE",
         "title": "ベントレーがヨットの内装をデザイン"
       },
       {
         "page": 5,
+        "category": "HISTORY",
         "title": "クルーでの生産開始から75年"
       },
       {
         "page": 5,
+        "category": "MOTOR SPORT",
         "title": "コンチネンタルGT3パイクスピーク テクニカルデータを公開"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "水素でクルマを走らせる"
       }
     ]
@@ -605,34 +823,47 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "世界アースデイに合わせ全従業員を対象に「#Project1Hour」を実施"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "EVの新型モデル追加で電動化を推進 ポルシェ・タイカンクロスツーリスモ"
       },
       {
         "page": 3,
+        "category": "MOVIE",
         "title": "GT Speedシルバーストーン ハブ公開 ピットレーンや走行シーンなど充実の動画"
       },
       {
         "page": 4,
+        "category": "FEATURES",
         "title": "コンチネンタルGT Speedに採用されたベントレー史上最も先進的なシャシー"
       },
       {
         "page": 5,
+        "category": "PRODUCTS",
         "title": "22MYの新カラーカンブリアングレーのご紹介"
       },
       {
         "page": 5,
+        "category": "RETAILER",
         "title": "新デジタルブローシャーの”A JOURNEY”がダウンロード可能に"
       },
       {
         "page": 5,
+        "category": "HISTORY",
         "title": "レースでの初勝利から100周年を祝福 往年のレースカーがブルックランズに集結"
       },
       {
+        "page": 5,
+        "category": "ACADEMY",
+        "title": "アカデミーニュースに関するご意見をお聞かせください"
+      },
+      {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "ブレーキの基礎知識"
       }
     ]
@@ -646,34 +877,42 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "創業からの累計製造台数20万台を達成"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "2021年モデルで内外装を大幅刷新 ジャガー F-Pace"
       },
       {
         "page": 3,
+        "category": "TOPICS",
         "title": "22MYの主な特徴について"
       },
       {
         "page": 4,
+        "category": "NEW MODEL",
         "title": "コンチネンタルGT Speedの特徴"
       },
       {
         "page": 5,
+        "category": "BREITLING",
         "title": "ブライトリング for ベントレーの新作発表　トゥールビヨンの限定モデル"
       },
       {
         "page": 5,
+        "category": "MOTOR SPORT",
         "title": "パイクスピーク三冠を目指すコンチネンタルGT3を発表"
       },
       {
         "page": 5,
+        "category": "COLLECTION",
         "title": "日常を豊かに彩る新アイテムを積極的にご紹介ください"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "デファレンシャルとLSDの働き"
       }
     ]
@@ -687,34 +926,42 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "日本限定の特別仕様車 EQUINOX コンチネンタルGT V8発売"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "電気自動車の先駆的なフラッグシップが登場 アウディ e-tron GT/RS e-tron GT"
       },
       {
         "page": 3,
+        "category": "USP",
         "title": "コンチネンタルGTが典型的なグランドツアラーである理由とは？"
       },
       {
         "page": 4,
+        "category": "HERITAGE",
         "title": "ベントレー モーターズの歴史と詳細"
       },
       {
         "page": 5,
+        "category": "PEOPLE",
         "title": "ベントレー モーターズ ジャパンの新代表に牛尾裕幸が就任"
       },
       {
         "page": 5,
+        "category": "ENVIRONMENT",
         "title": "サスティナブルなEVの道を切り開く レアアースマグネットのリサイクル研究を開始"
       },
       {
         "page": 5,
+        "category": "CHARITY",
         "title": "チェシャー・コミュニティ財団と新型コロナ基金を設立"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "ハイブリッドの種類と仕組み"
       }
     ]
@@ -728,34 +975,42 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "世界で愛され続けて80,000台 コンチネンタル シリーズの累計販売台数"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "メルセデス・ベンツ 新型Sクラスが日本導入"
       },
       {
         "page": 3,
+        "category": "AWARDS",
         "title": "フライングスパーが米TVで“ベスト ドリーム マシン”に選出"
       },
       {
         "page": 4,
+        "category": "ENGINEERING",
         "title": "フライングスパー V8が搭載するエンジンの特徴"
       },
       {
         "page": 5,
+        "category": "AWARDS",
         "title": "トップエンプロイヤーに10年連続で選出 過去最大級の実習生採用も"
       },
       {
         "page": 5,
+        "category": "PRESS",
         "title": "日本語版のプレスサイトを開設 一般向け情報も豊富に掲載"
       },
       {
         "page": 5,
+        "category": "COMPANY",
         "title": "クルー本社で新型コロナ対策継続 地域支援はさらに強化"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "「脱エンジン」の基礎知識"
       }
     ]
@@ -769,38 +1024,47 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "2020年の全世界の販売台数は過去最高を記録 日本の販売台数は463台"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "PHEVにBEVも加速 競合ブランドの電動SUV事情"
       },
       {
         "page": 3,
+        "category": "COMPANY",
         "title": "クルーの敷地がついに1つに統合 次の100年に向けた基礎を確立"
       },
       {
         "page": 4,
+        "category": "NEW MODEL",
         "title": "ベンテイガ ハイブリッド発表 静粛性が際立つラグジュアリー SUV"
       },
       {
         "page": 5,
+        "category": "AWARDS",
         "title": "ベンテイガ V8が4×4マガジンのSUVオブ・ザ・イヤーを受賞"
       },
       {
         "page": 5,
+        "category": "COLLECTION",
         "title": "フライングスパーがモチーフのアイテムをラインアップ"
       },
       {
         "page": 5,
+        "category": "PEOPLE",
         "title": "デザイン部門の責任者にアンドレアス・ミント氏"
       },
       {
         "page": 5,
+        "category": "AWARDS",
         "title": "最も影響力のある自動車業界の女性にベントレーから3人が選出"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "電動化にまつわる用語を再確認"
       }
     ]
@@ -814,34 +1078,42 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "ベンテイガ Speedを日本で正式に発表 パフォーマンス志向の究極のSUV"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "レクサスの最高峰モデルがフェイスリフト LEXUS LS"
       },
       {
         "page": 3,
+        "category": "MULLINER",
         "title": "ストーンからツイードまで 車内のパネルにさまざまな素材を採用"
       },
       {
         "page": 4,
+        "category": "COMPANY",
         "title": "次の100年への記念すべき第一歩 2020年を振り返る"
       },
       {
         "page": 5,
+        "category": "MULLINER",
         "title": "90年の時を経て誕生した“新車”のブロワー"
       },
       {
         "page": 5,
+        "category": "MARKETING",
         "title": "リテーラー マーケティング サポートサイト開設"
       },
       {
         "page": 5,
+        "category": "ENVIRONMENT",
         "title": "社内ロジスティクスの使用燃料をすべてHVOに転換"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "カーボンセラミックブレーキ"
       }
     ]
@@ -855,38 +1127,47 @@
     "contents": [
       {
         "page": 1,
+        "category": "BEYOND 100",
         "title": "ベントレー モーターズが「Beyond 100」戦略を発表"
       },
       {
         "page": 2,
+        "category": "BEYOND 100",
         "title": "Beyond 100で変わるベントレー"
       },
       {
         "page": 3,
+        "category": "COMPETITOR INFORMATION",
         "title": "プラグインハイブリッドの選択肢を拡大 ポルシェ パナメーラ"
       },
       {
         "page": 4,
+        "category": "ENVIRONMENT",
         "title": "クルー本社が2つのISO規格の認証を再取得"
       },
       {
         "page": 5,
+        "category": "CAMPAIGN",
         "title": "フライングスパー V8導入の成功へ STIMULUSキャンペーン実施中"
       },
       {
         "page": 5,
+        "category": "MARKETING",
         "title": "2021年のカレンダーはマリナーがテーマ"
       },
       {
         "page": 5,
+        "category": "EVENT",
         "title": "ベントレーが試乗イベント「トイ・ボックス」を開催"
       },
       {
         "page": 5,
+        "category": "COLLABORATION",
         "title": "LAのスタジオとのコラボによるアートイベント開催"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "電動化のカギとなる電池の話"
       }
     ]
@@ -900,34 +1181,42 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "フライングスパー V8を発表 ドライバーズカーとしての価値を高める俊敏性に磨き"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "日本市場に電気自動車を初導入 アウディ e-tron スポーツバック"
       },
       {
         "page": 3,
+        "category": "CRAFTSMANSHIP",
         "title": "顕微鏡レベルの仕事を行うベントレーの計測チーム"
       },
       {
         "page": 4,
+        "category": "MULLINER",
         "title": "コンチネンタルGTマリナーを発表"
       },
       {
         "page": 5,
+        "category": "EVENT",
         "title": "サロン・プリヴェでマリナーの3台がお披露目"
       },
       {
         "page": 5,
+        "category": "ENVIRONMENT",
         "title": "クルー工場で建設中の新施設でトップアウトセレモニーを挙行"
       },
       {
         "page": 5,
+        "category": "COLLECTION",
         "title": "ファーバーカステルが新作を発表 ウルフ・バーナートへのオマージュ"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "自動運転技術の現在地"
       }
     ]
@@ -941,34 +1230,42 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "フライングスパーの販売台数が40,000台突破 初代のデビュー以来15年で達成"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "革新的な装備を多数搭載 新型メルセデス・ベンツ Sクラス"
       },
       {
         "page": 3,
+        "category": "MULLINER",
         "title": "マリナーの動きが活発化 コレクションとクラシックに進展"
       },
       {
         "page": 4,
+        "category": "OPTION",
         "title": "フライングスパーのスタイリング スペシフィケーション"
       },
       {
         "page": 5,
+        "category": "MOTOR SPORT",
         "title": "ベントレー モータースポーツのカスタマーチームがIGTCにフル参戦"
       },
       {
         "page": 5,
+        "category": "COLLECTION",
         "title": "1/43スケールモデルに新色登場 コンチネンタルGTで2色追加"
       },
       {
         "page": 5,
+        "category": "ENVIRONMENT",
         "title": "クルー本社でリビングウォールを設置 壁面に2,680本もの植物"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "トルクとパワーの違いとは"
       }
     ]
@@ -982,34 +1279,42 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "生産能力を100％へ戻し新型ベンテイガの生産が進行中"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "8代目911の第3のボディバリエーション ポルシェ 911タルガ"
       },
       {
         "page": 3,
+        "category": "OPTION",
         "title": "フライングスパーに世界初の3Dウッドパネルが登場"
       },
       {
         "page": 4,
+        "category": "NEW MODEL",
         "title": "ベンテイガ Speedを発表 パフォーマンスとクラフツマンシップの融合"
       },
       {
         "page": 5,
+        "category": "PRODUCT",
         "title": "新型ベンテイガは後席の快適性を十分にアピールしてください"
       },
       {
         "page": 5,
+        "category": "COLLECTION",
         "title": "コレクター垂涎の逸品 コンチネンタルGTのビスポークモデルカー"
       },
       {
         "page": 5,
+        "category": "SNS",
         "title": "新しいソーシャルメディアチャネル 「ベントレー ニュースルーム」開始"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "SUVのオフロード性能の基本の数値"
       }
     ]
@@ -1023,34 +1328,42 @@
     "contents": [
       {
         "page": 1,
+        "category": "NEW MODEL",
         "title": "ラグジュアリーSUVのさらなる高みへ 新型ベンテイガ発表"
       },
       {
         "page": 2,
+        "category": "NEW MODEL",
         "title": "新型ベンテイガの特徴"
       },
       {
         "page": 3,
+        "category": "COMPETITOR INFORMATION",
         "title": "新型ベンテイガの競合モデル"
       },
       {
         "page": 4,
+        "category": "PRODUCTS",
         "title": "ワンランク上のラグジュアリーへ 21MYの変更点"
       },
       {
         "page": 5,
+        "category": "ACADEMY",
         "title": "新型ベンテイガのEラーニングについて"
       },
       {
         "page": 5,
+        "category": "COLLECTION",
         "title": "お子様と一緒に楽しめるベントレーのアイテム"
       },
       {
         "page": 5,
+        "category": "ENVIRONMENT",
         "title": "クルー本社に雨水貯留システムを導入"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "SUVにおけるデフの役割"
       }
     ]
@@ -1064,26 +1377,32 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "さらに洗練された車両にアップグレード ワンランク上のアクセサリーを拡充"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "エレガントなデザインの新型クーペ フェラーリ・ローマ"
       },
       {
         "page": 3,
+        "category": "ENVIRONMENT",
         "title": "Flying Beeが蜂蜜作りを再開 巣箱を2つ追加して30万匹に増加"
       },
       {
         "page": 4,
+        "category": "PEOPLE",
         "title": "クルーのキーパーソンが回想する最も印象深いベントレー"
       },
       {
         "page": 5,
+        "category": "SOCIAL MEDIA",
         "title": "在宅率のアップで注目度も上昇 ベントレーとSNS"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "運動エネルギーを取り戻す回生ブレーキ"
       }
     ]
@@ -1097,34 +1416,42 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "EスポーツでコンチネンタルGT3が躍動！ 今シーズンのモータースポーツ"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "メルセデスの最上級SUVが全面刷新 メルセデス・ベンツ GLS"
       },
       {
         "page": 3,
+        "category": "MOVIE",
         "title": "コンチネンタルGTの描き方から写真の撮り方まで 好評を博す「How to」シリーズ"
       },
       {
         "page": 4,
+        "category": "CRAFTSMANSHIP",
         "title": "フラッグシップモデルを支えたクラフツマンたち ミュルザンヌ メーカーズ"
       },
       {
         "page": 5,
+        "category": "MULLINER",
         "title": "コンティニュエーションシリーズに大きな進展 デジタル上でバーキンのブロワーが完成"
       },
       {
         "page": 5,
+        "category": "COLLECTION",
         "title": "ベントレー コレクションに新作が登場 キャップなど季節に合ったアイテム多数"
       },
       {
         "page": 5,
+        "category": "COMPANY",
         "title": "本社工場休止期間中もベントレーは地域とともに"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "DCTの仕組みとメリット"
       }
     ]
@@ -1138,34 +1465,42 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "ベントレーが取り組むサスティナビリティ"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "650馬力に達した911シリーズの最高峰 ポルシェ911ターボS"
       },
       {
         "page": 3,
+        "category": "TOPICS",
         "title": "新型コロナウイルスの感染拡大に伴い工場を一時閉鎖 ホールマークCEOからのメッセージ"
       },
       {
         "page": 4,
+        "category": "HERITAGE",
         "title": "6.75リッター V8エンジンの軌跡 ベントレーの象徴が60年の歴史に幕"
       },
       {
         "page": 5,
+        "category": "MULLINER",
         "title": "バカラルの塗り絵コンテスト開催！ ベントレーのデザインチームもサンプルを発表"
       },
       {
         "page": 5,
+        "category": "MOTOR SPORT",
         "title": "ベントレーのレーサーたちがバーチャルのチャリティレースに参戦"
       },
       {
         "page": 5,
+        "category": "CHARITY",
         "title": "クルー本社周辺地域の医療機関へ手袋やゴーグルなどを寄贈"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "ベントレー ダイナミックライド"
       }
     ]
@@ -1179,34 +1514,42 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "コンチネンタルGT V8の試乗研修を実施"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "ジュネーブ・モーターショーで発表予定だった 今後デビューするニューモデル"
       },
       {
         "page": 3,
+        "category": "COLLABORATION",
         "title": "ブライトリング for ベントレーが新作を発表 17年のパートナーシップを記念"
       },
       {
         "page": 4,
+        "category": "PRODUCT",
         "title": "マリナー バカラル発表 コーチビルド復活への第一弾"
       },
       {
         "page": 5,
+        "category": "MULLINER",
         "title": "マリナーの新作が続々と登場 コンバーチブルで2種類の特別仕様車"
       },
       {
         "page": 5,
+        "category": "MOTOR SPORT",
         "title": "GTワールド チャレンジ アジアにコンチネンタルGT3の参戦が決定"
       },
       {
         "page": 5,
+        "category": "COLLECTION",
         "title": "ベントレー ゴルフの新作 テック コレクション登場"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "6.0リッター W12 TSIエンジンの特徴とは"
       }
     ]
@@ -1220,42 +1563,52 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "IGTC初戦、バサースト12時間でコンチネンタルGT3が優勝！"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "8シリーズの本命となる最高級4ドアクーペ BMW 8シリーズ グラン クーペ"
       },
       {
         "page": 3,
+        "category": "COMPETITOR INFORMATION",
         "title": "ジャガーランドローバーが画期的な変形シートを開発中"
       },
       {
         "page": 3,
+        "category": "COMPETITOR INFORMATION",
         "title": "アストンマーティンが新たな限定モデルを発表"
       },
       {
         "page": 3,
+        "category": "ACADEMY",
         "title": "リテーラー アカデミー ニュース100号到達 アーカイブもご活用ください"
       },
       {
         "page": 4,
+        "category": "PRODUCT",
         "title": "フライングスパー、細部へのこだわり ベントレー史上最も複雑なインテリア"
       },
       {
         "page": 5,
+        "category": "ENVIRONMENT",
         "title": "クルー工場で工業用水のリサイクルシステムの稼働を開始"
       },
       {
         "page": 5,
+        "category": "MULLINER",
         "title": "ジュネーブモーターショーでマリナーが「バカラー」を発表へ"
       },
       {
         "page": 5,
+        "category": "AWARDS",
         "title": "EXP 100 GTが2つの栄誉ある賞を受賞"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "クルマの電池の基礎知識"
       }
     ]
@@ -1269,34 +1622,42 @@
     "contents": [
       {
         "page": 1,
+        "category": "",
         "title": "2019年の日本での販売台数は522台 グローバルのセールスは11,000台超"
       },
       {
         "page": 2,
+        "category": "COMPETITOR INFORMATION",
         "title": "最終モデルとなる特別仕様車を追加 メルセデス・ベンツ Sクラス"
       },
       {
         "page": 3,
+        "category": "LIMITED EDITION",
         "title": "世界30台限定のミュルザンヌ 6.75エディション登場"
       },
       {
         "page": 4,
+        "category": "MEDIA",
         "title": "「次の100年」に向けてクリス・クラフト取締役が語ったこと"
       },
       {
         "page": 5,
+        "category": "AWARDS",
         "title": "2019年に全世界で受けた栄誉は25"
       },
       {
         "page": 5,
+        "category": "MOTOR SPORT",
         "title": "2020年シーズンのモータースポーツ ワークスチームとカスタマーチームが世界で躍動！"
       },
       {
         "page": 5,
+        "category": "COLLECTION",
         "title": "ミュルザンヌW.O. エディションの1/43スケールモデルなどが登場"
       },
       {
         "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
         "title": "自動車業界が取り組むサスティナビリティ"
       }
     ]
