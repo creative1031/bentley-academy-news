@@ -4,10 +4,7 @@ import NewRelease from '../components/NewRelease'
 import RelativeArticles from '../components/RelativeArticles'
 
 export default function Home() {
-  // const url = 'http://localhost:3000/data/bran-archives.json'
-  const url =
-    'https://bentley-academy-news.herokuapp.com/data/bran-archives.json'
-
+  const url = 'data/bran-archives.json'
   const { data: latestIssue, isPending, error } = useFetch(url)
 
   return (

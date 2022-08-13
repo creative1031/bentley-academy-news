@@ -2,7 +2,7 @@
   "name": "bentley-academy-news",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://bentley-academy-news.herokuapp.com/data/bran-archives.json",
+  "proxy": "https://bentley-academy-news.herokuapp.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",

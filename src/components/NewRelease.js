@@ -2,7 +2,7 @@ import PDFicon from '../assets/pdf-icon.svg'
 
 export default function NewRelease({ latestIssue }) {
   return (
-    <div className="flex flex-col mb-10 lg:flex-row lg:mb-0">
+    <div className="flex flex-col mb-10 lg:flex-row xl:mb-0">
       <a href={latestIssue.pdf} className="lg:mr-10">
         <img
           src={latestIssue.image}
