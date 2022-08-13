@@ -3,7 +3,7 @@
     "issue": 128,
     "year": 2022,
     "month": 6,
-    "image": "/img/128.jpg",
+    "image": "/images/128.jpg",
     "pdf": "/pdf/128.pdf",
     "contents": [
       {
@@ -44,7 +44,7 @@
     "issue": 127,
     "year": 2022,
     "month": 5,
-    "image": "/img/127.jpg",
+    "image": "/images/127.jpg",
     "pdf": "/pdf/127.pdf",
     "contents": [
       {
@@ -89,7 +89,7 @@
     "issue": 126,
     "year": 2022,
     "month": 4,
-    "image": "/img/126.jpg",
+    "image": "/images/126.jpg",
     "pdf": "/pdf/126.pdf",
     "contents": [
       {
@@ -134,7 +134,7 @@
     "issue": 125,
     "year": 2022,
     "month": 3,
-    "image": "/img/125.jpg",
+    "image": "/images/125.jpg",
     "pdf": "/pdf/125.pdf",
     "contents": [
       {
@@ -179,7 +179,7 @@
     "issue": 124,
     "year": 2022,
     "month": 2,
-    "image": "/img/124.jpg",
+    "image": "/images/124.jpg",
     "pdf": "/pdf/124.pdf",
     "contents": [
       {
@@ -224,7 +224,7 @@
     "issue": 123,
     "year": 2022,
     "month": 1,
-    "image": "/img/123.jpg",
+    "image": "/images/123.jpg",
     "pdf": "/pdf/123.pdf",
     "contents": [
       {
@@ -269,7 +269,7 @@
     "issue": 122,
     "year": 2021,
     "month": 12,
-    "image": "/img/122.jpg",
+    "image": "/images/122.jpg",
     "pdf": "/pdf/122.pdf",
     "contents": [
       {
@@ -314,7 +314,7 @@
     "issue": 121,
     "year": 2021,
     "month": 11,
-    "image": "/img/121.jpg",
+    "image": "/images/121.jpg",
     "pdf": "/pdf/121.pdf",
     "contents": [
       {
@@ -359,7 +359,7 @@
     "issue": 120,
     "year": 2021,
     "month": 10,
-    "image": "/img/120.jpg",
+    "image": "/images/120.jpg",
     "pdf": "/pdf/120.pdf",
     "contents": [
       {
@@ -408,7 +408,7 @@
     "issue": 119,
     "year": 2021,
     "month": 9,
-    "image": "/img/119.jpg",
+    "image": "/images/119.jpg",
     "pdf": "/pdf/119.pdf",
     "contents": [
       {
@@ -457,7 +457,7 @@
     "issue": 118,
     "year": 2021,
     "month": 8,
-    "image": "/img/118.jpg",
+    "image": "/images/118.jpg",
     "pdf": "/pdf/118.pdf",
     "contents": [
       {
@@ -506,7 +506,7 @@
     "issue": 117,
     "year": 2021,
     "month": 7,
-    "image": "/img/117.jpg",
+    "image": "/images/117.jpg",
     "pdf": "/pdf/117.pdf",
     "contents": [
       {
@@ -555,7 +555,7 @@
     "issue": 116,
     "year": 2021,
     "month": 6,
-    "image": "/img/116.jpg",
+    "image": "/images/116.jpg",
     "pdf": "/pdf/116.pdf",
     "contents": [
       {
@@ -600,7 +600,7 @@
     "issue": 115,
     "year": 2021,
     "month": 5,
-    "image": "/img/115.jpg",
+    "image": "/images/115.jpg",
     "pdf": "/pdf/115.pdf",
     "contents": [
       {
@@ -641,7 +641,7 @@
     "issue": 114,
     "year": 2021,
     "month": 4,
-    "image": "/img/114.jpg",
+    "image": "/images/114.jpg",
     "pdf": "/pdf/114.pdf",
     "contents": [
       {
@@ -682,7 +682,7 @@
     "issue": 113,
     "year": 2021,
     "month": 3,
-    "image": "/img/113.jpg",
+    "image": "/images/113.jpg",
     "pdf": "/pdf/113.pdf",
     "contents": [
       {
@@ -723,7 +723,7 @@
     "issue": 112,
     "year": 2021,
     "month": 2,
-    "image": "/img/112.jpg",
+    "image": "/images/112.jpg",
     "pdf": "/pdf/112.pdf",
     "contents": [
       {
@@ -764,7 +764,7 @@
     "issue": 111,
     "year": 2021,
     "month": 1,
-    "image": "/img/111.jpg",
+    "image": "/images/111.jpg",
     "pdf": "/pdf/111.pdf",
     "contents": [
       {
@@ -809,7 +809,7 @@
     "issue": 110,
     "year": 2020,
     "month": 12,
-    "image": "/img/110.jpg",
+    "image": "/images/110.jpg",
     "pdf": "/pdf/110.pdf",
     "contents": [
       {
@@ -850,7 +850,7 @@
     "issue": 109,
     "year": 2020,
     "month": 11,
-    "image": "/img/109.jpg",
+    "image": "/images/109.jpg",
     "pdf": "/pdf/109.pdf",
     "contents": [
       {
@@ -895,7 +895,7 @@
     "issue": 108,
     "year": 2020,
     "month": 10,
-    "image": "/img/108.jpg",
+    "image": "/images/108.jpg",
     "pdf": "/pdf/108.pdf",
     "contents": [
       {
@@ -936,7 +936,7 @@
     "issue": 107,
     "year": 2020,
     "month": 9,
-    "image": "/img/107.jpg",
+    "image": "/images/107.jpg",
     "pdf": "/pdf/107.pdf",
     "contents": [
       {
@@ -977,7 +977,7 @@
     "issue": 106,
     "year": 2020,
     "month": 8,
-    "image": "/img/106.jpg",
+    "image": "/images/106.jpg",
     "pdf": "/pdf/106.pdf",
     "contents": [
       {
@@ -1018,7 +1018,7 @@
     "issue": 105,
     "year": 2020,
     "month": 7,
-    "image": "/img/105.jpg",
+    "image": "/images/105.jpg",
     "pdf": "/pdf/105.pdf",
     "contents": [
       {
@@ -1059,7 +1059,7 @@
     "issue": 104,
     "year": 2020,
     "month": 6,
-    "image": "/img/104.jpg",
+    "image": "/images/104.jpg",
     "pdf": "/pdf/104.pdf",
     "contents": [
       {
@@ -1092,7 +1092,7 @@
     "issue": 103,
     "year": 2020,
     "month": 5,
-    "image": "/img/103.jpg",
+    "image": "/images/103.jpg",
     "pdf": "/pdf/103.pdf",
     "contents": [
       {
@@ -1133,7 +1133,7 @@
     "issue": 102,
     "year": 2020,
     "month": 4,
-    "image": "/img/102.jpg",
+    "image": "/images/102.jpg",
     "pdf": "/pdf/102.pdf",
     "contents": [
       {
@@ -1174,7 +1174,7 @@
     "issue": 101,
     "year": 2020,
     "month": 3,
-    "image": "/img/101.jpg",
+    "image": "/images/101.jpg",
     "pdf": "/pdf/101.pdf",
     "contents": [
       {
@@ -1215,7 +1215,7 @@
     "issue": 100,
     "year": 2020,
     "month": 2,
-    "image": "/img/100.jpg",
+    "image": "/images/100.jpg",
     "pdf": "/pdf/100.pdf",
     "contents": [
       {
@@ -1264,7 +1264,7 @@
     "issue": 99,
     "year": 2020,
     "month": 1,
-    "image": "/img/99.jpg",
+    "image": "/images/99.jpg",
     "pdf": "/pdf/99.pdf",
     "contents": [
       {
