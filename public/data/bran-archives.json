@@ -8,7 +8,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "OPTION",
         "title": "世界で最もウェルビーイングにフォーカスしたシート エアラインシート スペシフィケーション"
       },
       {
@@ -28,7 +28,7 @@
       },
       {
         "page": 5,
-        "category": "AWARDS",
+        "category": "AWARD",
         "title": "コンチネンタルGTとフライングスパーがROBB REPORTの2つの賞を受賞"
       },
       {
@@ -62,7 +62,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "NEW MODEL",
         "title": "ベントレーの新デリバティブ戦略 AzureとSを発表"
       },
       {
@@ -111,7 +111,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "NEW MODEL",
         "title": "ベンテイガ EWB発表 待望のロングホイールベース"
       },
       {
@@ -219,7 +219,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "RETAILER",
         "title": "英国のリテーラーがカーボンニュートラルを達成　日本の販売店でも本格始動"
       },
       {
@@ -273,7 +273,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "BEYOND 100",
         "title": "Beyond 100戦略をさらに加速 2025年からの5年間でBEVを計5車種発売"
       },
       {
@@ -288,7 +288,7 @@
       },
       {
         "page": 4,
-        "category": "AWARDS",
+        "category": "AWARD",
         "title": "11年連続でトップ エンプロイヤーに認定"
       },
       {
@@ -303,7 +303,7 @@
       },
       {
         "page": 5,
-        "category": "AWARDS",
+        "category": "AWARD",
         "title": "コンチネンタルGTが3つの主要市場で重要な賞を受賞"
       },
       {
@@ -327,7 +327,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "SALES",
         "title": "2021年の全世界の売台数は14,659台 日本も過去最の596台を記録"
       },
       {
@@ -337,7 +337,7 @@
       },
       {
         "page": 3,
-        "category": "AWARDS",
+        "category": "AWARD",
         "title": "2021年に全世界でベントレーが受けた栄誉は10個"
       },
       {
@@ -381,7 +381,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "MULLINER",
         "title": "コンチネンタルGTにマリナー ブラックライン登場"
       },
       {
@@ -435,7 +435,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "NEW MODEL",
         "title": "ベンテイガ ハイブリッド 日本導入を正式発表"
       },
       {
@@ -460,7 +460,7 @@
       },
       {
         "page": 5,
-        "category": "AWARDS",
+        "category": "AWARD",
         "title": "ベントレーの電気系エンジニアが自動車業界を活気づけた女性30人に選出"
       },
       {
@@ -489,7 +489,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "COMPETITOR",
         "title": "競合ブランドの2021年 気になる売れ筋モデルは？"
       },
       {
@@ -509,7 +509,7 @@
       },
       {
         "page": 5,
-        "category": "AWARDS",
+        "category": "AWARD",
         "title": "ベンテイガ SpeedがWardsAutoの10ベスト インテリアに選出"
       },
       {
@@ -543,7 +543,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "NEW MODEL",
         "title": "ベンテイガ ハイブリッド日本導入"
       },
       {
@@ -592,7 +592,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "NEW MODEL",
         "title": "モントレー カー ウイークで新型6車種を初めて公開"
       },
       {
@@ -651,7 +651,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "SALES",
         "title": "グローバルの上半期販売台数は過去最高を記録 日本は過去2番目の好調"
       },
       {
@@ -740,7 +740,7 @@
       },
       {
         "page": 5,
-        "category": "AWARDS",
+        "category": "AWARD",
         "title": "フライングスパーがROBB REPORTのベスト オートモーティブ インテリア賞を受賞"
       },
       {
@@ -789,7 +789,7 @@
       },
       {
         "page": 5,
-        "category": "AWARDS",
+        "category": "AWARD",
         "title": "『AUROCAR』誌のイノベーション アワードを受賞"
       },
       {
@@ -823,7 +823,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "EARTHDAY",
         "title": "世界アースデイに合わせ全従業員を対象に「#Project1Hour」を実施"
       },
       {
@@ -877,7 +877,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "SALES",
         "title": "創業からの累計製造台数20万台を達成"
       },
       {
@@ -926,7 +926,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "LIMITED EDITION",
         "title": "日本限定の特別仕様車 EQUINOX コンチネンタルGT V8発売"
       },
       {
@@ -975,7 +975,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "SALES",
         "title": "世界で愛され続けて80,000台 コンチネンタル シリーズの累計販売台数"
       },
       {
@@ -985,7 +985,7 @@
       },
       {
         "page": 3,
-        "category": "AWARDS",
+        "category": "AWARD",
         "title": "フライングスパーが米TVで“ベスト ドリーム マシン”に選出"
       },
       {
@@ -995,7 +995,7 @@
       },
       {
         "page": 5,
-        "category": "AWARDS",
+        "category": "AWARD",
         "title": "トップエンプロイヤーに10年連続で選出 過去最大級の実習生採用も"
       },
       {
@@ -1024,7 +1024,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "SALES",
         "title": "2020年の全世界の販売台数は過去最高を記録 日本の販売台数は463台"
       },
       {
@@ -1044,7 +1044,7 @@
       },
       {
         "page": 5,
-        "category": "AWARDS",
+        "category": "AWARS",
         "title": "ベンテイガ V8が4×4マガジンのSUVオブ・ザ・イヤーを受賞"
       },
       {
@@ -1059,7 +1059,7 @@
       },
       {
         "page": 5,
-        "category": "AWARDS",
+        "category": "AWARD",
         "title": "最も影響力のある自動車業界の女性にベントレーから3人が選出"
       },
       {
@@ -1078,7 +1078,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "NEW MODEL",
         "title": "ベンテイガ Speedを日本で正式に発表 パフォーマンス志向の究極のSUV"
       },
       {
@@ -1181,7 +1181,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "NEW MODEL",
         "title": "フライングスパー V8を発表 ドライバーズカーとしての価値を高める俊敏性に磨き"
       },
       {
@@ -1230,7 +1230,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "SALES",
         "title": "フライングスパーの販売台数が40,000台突破 初代のデビュー以来15年で達成"
       },
       {
@@ -1279,7 +1279,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "PRODUCTION",
         "title": "生産能力を100％へ戻し新型ベンテイガの生産が進行中"
       },
       {
@@ -1377,7 +1377,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "ACCESORRIES",
         "title": "さらに洗練された車両にアップグレード ワンランク上のアクセサリーを拡充"
       },
       {
@@ -1416,7 +1416,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "MOTOR SPORT",
         "title": "EスポーツでコンチネンタルGT3が躍動！ 今シーズンのモータースポーツ"
       },
       {
@@ -1514,7 +1514,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "TRAINING",
         "title": "コンチネンタルGT V8の試乗研修を実施"
       },
       {
@@ -1563,7 +1563,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "MOTOR SPORT",
         "title": "IGTC初戦、バサースト12時間でコンチネンタルGT3が優勝！"
       },
       {
@@ -1603,7 +1603,7 @@
       },
       {
         "page": 5,
-        "category": "AWARDS",
+        "category": "AWARD",
         "title": "EXP 100 GTが2つの栄誉ある賞を受賞"
       },
       {
@@ -1622,7 +1622,7 @@
     "contents": [
       {
         "page": 1,
-        "category": "",
+        "category": "SALES",
         "title": "2019年の日本での販売台数は522台 グローバルのセールスは11,000台超"
       },
       {
@@ -1642,7 +1642,7 @@
       },
       {
         "page": 5,
-        "category": "AWARDS",
+        "category": "AWARD",
         "title": "2019年に全世界で受けた栄誉は25"
       },
       {
@@ -1659,6 +1659,2560 @@
         "page": 6,
         "category": "PRODUCT KNOWLEDGE",
         "title": "自動車業界が取り組むサスティナビリティ"
+      }
+    ]
+  },
+  {
+    "issue": 98,
+    "year": 2019,
+    "month": 12,
+    "image": "/images/98.jpg",
+    "pdf": "/pdf/98.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "NEW MODEL",
+        "title": "新型フライングスパーの日本導入を正式発表"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "新型フライングスパーの競合モデル"
+      },
+      {
+        "page": 4,
+        "category": "MULLINER",
+        "title": "ベンテイガ V8の特別仕様車を発表 日本限定10台をマリナーが手掛ける"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "伝統のV8エンジンが60周年を迎えました"
+      },
+      {
+        "page": 5,
+        "category": "MULLINER",
+        "title": "パイクスピークでの新記録樹立を祝福 コンチネンタルGTの特別仕様車を発表"
+      },
+      {
+        "page": 5,
+        "category": "COLLABORATION",
+        "title": "BOMBER SKIとタッグを組んだ24金入りの100周年記念モデルが登場"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "自動運転技術の現在位置"
+      }
+    ]
+  },
+  {
+    "issue": 97,
+    "year": 2019,
+    "month": 11,
+    "image": "/images/97.jpg",
+    "pdf": "/pdf/97.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "TRAINING",
+        "title": "スペインでフライングスパー研修を実施参加者は新モデルをどう見たか？"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ポルシェ カイエン Turbo S E-Hybrid/E-Hybrid Coupe"
+      },
+      {
+        "page": 3,
+        "category": "COLLABORATION",
+        "title": "ベントレーゴルフの日本総代理店にキズナゴルフ"
+      },
+      {
+        "page": 4,
+        "category": "NEW PRODUCTS",
+        "title": "新型フライングスパー向けのブラックラインスペックが登場"
+      },
+      {
+        "page": 5,
+        "category": "CENTENARY",
+        "title": "ニューヨークに集結した100 台のベントレーがブランドの100 周年を祝福"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "ベントレー コレクションにプレゼントに最適な冬の新商品を追加"
+      },
+      {
+        "page": 5,
+        "category": "DIGITAL",
+        "title": "ベントレーのARアプリで新型フライングスパーが見られます"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "東京モーターショー2019で見えた日本のEV動向"
+      }
+    ]
+  },
+  {
+    "issue": 96,
+    "year": 2019,
+    "month": 10,
+    "image": "/images/96.jpg",
+    "pdf": "/pdf/96.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "REPRODUCTION",
+        "title": "ブロワー コンティニュエーション シリーズ発表、オリジナルを元に12台を再製造"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ポルシェ タイカン"
+      },
+      {
+        "page": 3,
+        "category": "ACADEMY",
+        "title": "速報、新型フライングスパーの研修をスペインで実施"
+      },
+      {
+        "page": 4,
+        "category": "CRAFTSMANSHIP",
+        "title": "トリムを作り続けて50年、クラフトマンシップの真髄"
+      },
+      {
+        "page": 5,
+        "category": "ENVIRONMENT",
+        "title": "本社工場でカーボンニュートラルの認証を取得、英国のラグジュアリーカーメーカーとして初"
+      },
+      {
+        "page": 5,
+        "category": "AWARD",
+        "title": "新型コンチネンタルGT V8が英国で2つの賞を受賞"
+      },
+      {
+        "page": 5,
+        "category": "PEOPLE",
+        "title": "次の100年を担う93人の研修生がベントレーでのキャリアをスタート"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "さまざまなハイブリッド方式の特徴"
+      }
+    ]
+  },
+  {
+    "issue": 95,
+    "year": 2019,
+    "month": 9,
+    "image": "/images/95.jpg",
+    "pdf": "/pdf/95.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "FEATURES",
+        "title": "コンチネンタル シリーズ 20.5MYの特徴"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ドイツメーカーの新型車が多数発表、フランクフルト・モーターショー 2019"
+      },
+      {
+        "page": 3,
+        "category": "MOTOR SPORT",
+        "title": "ベントレーの魂を見せたSuzuka 10H、お客様が訪れたラウンジも大盛況"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "3代目コンチネンタルシリーズにV8モデルが追加、エクステリアとインテリアの特徴"
+      },
+      {
+        "page": 5,
+        "category": "AWARD",
+        "title": "国際的デザインコンペでベントレーが2つの賞を受賞"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "1,321台の新旧ベントレーが集結。サロン プリヴェで世界記録を樹立"
+      },
+      {
+        "page": 5,
+        "category": "DIGITAL",
+        "title": "EXP 100 GTをショールームで見る。ARアプリが利用可能に"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "フランクフルトモーターショー2019（IAA2019）テクニカル・レポート"
+      }
+    ]
+  },
+  {
+    "issue": 94,
+    "year": 2019,
+    "month": 8,
+    "image": "/images/94.jpg",
+    "pdf": "/pdf/94.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "LIMITED EDITION",
+        "title": "フライングスパー 1st エディション発表。2019年末から12カ月間の期間限定"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ドイツメーカーによるSUV攻勢が本格化。各社の最新ハイエンドSUV事情"
+      },
+      {
+        "page": 3,
+        "category": "ENVIRONMENT",
+        "title": "ベントレーの環境方針。生物多様性への取り組みで養蜂を開始"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "3代目コンチネンタルシリーズにV8モデルが追加。エントリーポイントとして高まる期待"
+      },
+      {
+        "page": 5,
+        "category": "ACADEMY",
+        "title": "Eラーニングの新プログラム。フライングスパーの受講をお忘れなく"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "ベントレー コレクションのサングラスに100周年記念モデルが登場"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "マリナーが伝説のコーニッシュをリビルト。1939年当時の完全な姿が明らかに"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "先進運転支援システム（ADAS）の落とし穴"
+      }
+    ]
+  },
+  {
+    "issue": 93,
+    "year": 2019,
+    "month": 7,
+    "image": "/images/93.jpg",
+    "pdf": "/pdf/93.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "CENTENARY",
+        "title": "コンセプトモデルEXP 100 GT発表。未来のラグジュアリーカーの原型へ"
+      },
+      {
+        "page": 2,
+        "category": "CENTENARY",
+        "title": "EXP 100 GTの特徴：モビリティの枠を超えたラグジュアリー"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "BMW 7 シリーズ / BMW M8"
+      },
+      {
+        "page": 4,
+        "category": "MOTOR SPORT",
+        "title": "パイクスピークでコンチネンタルGTが市販車部門の新記録を樹立"
+      },
+      {
+        "page": 5,
+        "category": "CENTENARY",
+        "title": "100周年特別仕様車の最終章。コンチネンタルGT コンバーチブル ナンバー1エディション by マリナー発表"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "ファーバーカステルから100周年記念のペンのセットが登場"
+      },
+      {
+        "page": 5,
+        "category": "PEOPLE",
+        "title": "モータースポーツ責任者にポール・ウィリアムズが就任"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "オールホイールステアリング"
+      }
+    ]
+  },
+  {
+    "issue": "92-特別号",
+    "year": 2019,
+    "month": 6,
+    "image": "/images/92-2.jpg",
+    "pdf": "/pdf/92-2.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "FLYING SPUR",
+        "title": "新型フライングスパーのキーステートメント"
+      },
+      {
+        "page": 2,
+        "category": "EXTERIOR",
+        "title": "新型フライングスパー：エクステリア"
+      },
+      {
+        "page": 3,
+        "category": "INTERIOR",
+        "title": "新型フライングスパー：インテリア"
+      },
+      {
+        "page": 4,
+        "category": "USP",
+        "title": "新型フライングスパー：USP"
+      },
+      {
+        "page": 4,
+        "category": "SPECIFICATIONS",
+        "title": "新型フライングスパー：スペック"
+      },
+      {
+        "page": 5,
+        "category": "SAFETY",
+        "title": "新型フライングスパー：セーフティ"
+      },
+      {
+        "page": 5,
+        "category": "COLOR",
+        "title": "新型フライングスパー：カラー"
+      },
+      {
+        "page": 6,
+        "category": "COMPARISON",
+        "title": "新型フライングスパー：競合比較"
+      }
+    ]
+  },
+  {
+    "issue": 92,
+    "year": 2019,
+    "month": 6,
+    "image": "/images/92.jpg",
+    "pdf": "/pdf/92.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "NEW MODEL",
+        "title": "新型フライングスパー発表。スポーツセダンとラグジュアリーリムジンの融合"
+      },
+      {
+        "page": 3,
+        "category": "ACADEMY",
+        "title": "Becoming Bentleyを今年初めて開催。東京、横浜、大阪から16 名が参加"
+      },
+      {
+        "page": 4,
+        "category": "COMPETITOR INFORMATION",
+        "title": "高性能と快適性を両立したグランドツアラー。マクラーレン GT"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "パイクスピーク・ヒルクライム仕様のコンチネンタルGTを発表"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "ル・マンに「ベントレー・ボーイズ通り」パレードランでは新型フライングスパーも登場"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "V8 OHVエンジンの特徴"
+      }
+    ]
+  },
+  {
+    "issue": 91,
+    "year": 2019,
+    "month": 5,
+    "image": "/images/91.jpg",
+    "pdf": "/pdf/91.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "REVIEWS",
+        "title": "コンチネンタルGTコンバーチブルの実力をメディアはどう評価した？"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "フェラーリV8モデルの集大成 Ferrari F8 Tributo"
+      },
+      {
+        "page": 3,
+        "category": "ENVIRONMENT",
+        "title": "クルー本社工場に英国最大級の太陽光発電設備"
+      },
+      {
+        "page": 4,
+        "category": "HISTORY",
+        "title": "ラグジュアリー サルーンの頂点　フライングスパーの系譜"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "ベントレー コレクションに新アイテムが登場"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "ベントレー伝統のモチーフ「丸形4灯ヘッドランプ」"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "燃費向上技術いろいろ"
+      }
+    ]
+  },
+  {
+    "issue": 90,
+    "year": 2019,
+    "month": 4,
+    "image": "/images/90.jpg",
+    "pdf": "/pdf/90.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "EXPOSURE",
+        "title": "新型フライングスパーのティザー動画・画像を公開"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ポルシェからついにSUVクーペが登場 ポルシェ カイエン クーペ"
+      },
+      {
+        "page": 3,
+        "category": "ACADEMY",
+        "title": "ソーシャルメディア・マスタークラス研修会を開催"
+      },
+      {
+        "page": 4,
+        "category": "SAFETY EQUIPMENT",
+        "title": "コンチネンタルGTの先進安全装備"
+      },
+      {
+        "page": 5,
+        "category": "E-ACADEMY",
+        "title": "eAcademyのウェブサイトがリニューアル"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "コンチネンタルGT3のモンツァ仕様が1:43スケールモデルカーに"
+      },
+      {
+        "page": 5,
+        "category": "CENTENARY",
+        "title": "ロンドンのオークショニアがベントレーの100周年記念の展覧会を開催"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "新燃費表示WLTCモードとは？"
+      }
+    ]
+  },
+  {
+    "issue": 89,
+    "year": 2019,
+    "month": 3,
+    "image": "/images/89.jpg",
+    "pdf": "/pdf/89.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "CENTENARY",
+        "title": "次の100年もグランドツーリングをリードする ジュネーブモーターショーでホールマークCEO"
+      },
+      {
+        "page": 2,
+        "category": "NEW MODEL",
+        "title": "コンチネンタルGT ナンバー9エディション by マリナー 草創期の名車「ブロワー」の息吹が現代に蘇る"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "EV次代を見据えたニューモデルも多数登場 ジュネーブモーターショー 2019"
+      },
+      {
+        "page": 4,
+        "category": "COMPETITOR INFORMATION",
+        "title": "アストンマーティンが発表した注目のニューモデル"
+      },
+      {
+        "page": 5,
+        "category": "AFFINITY PARTNERS",
+        "title": "ブライトリング for ベントレー プレミエシリーズに100周年記念モデルが登場"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "100周年記念の新アイテム マグおよびエスプレッソセットが追加"
+      },
+      {
+        "page": 5,
+        "category": "ACADEMY",
+        "title": "新型コンチネンタルGTコンバーチブルのEラーニング"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "ジュネーブモーターショー 2019から読み解く電動化の未来"
+      }
+    ]
+  },
+  {
+    "issue": 88,
+    "year": 2019,
+    "month": 2,
+    "image": "/images/88.jpg",
+    "pdf": "/pdf/88.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "NEW MODEL",
+        "title": "新型コンチネンタルGTコンバーチブルを日本で正式発表"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "8代目に生まれ変わったスポーツカーの代名詞 ポルシェ 911"
+      },
+      {
+        "page": 3,
+        "category": "COMPANY",
+        "title": "8年連続でトップエンプロイヤーに選出 育成プログラムなどに高い評価"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "ベンテイガ Speed新登場 世界で最もラグジュアリー&世界最速のSUV"
+      },
+      {
+        "page": 5,
+        "category": "AFFINITY PARTNERS",
+        "title": "100周年記念アクセサリー「センテナリーコレクション」が登場"
+      },
+      {
+        "page": 5,
+        "category": "CENTENARY",
+        "title": "ジュネーブモーターショーで100周年記念モデル発表へ"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "バサースト12時間、コンチネンタルGT3は6位と8位、107号車はファステストラップで見せ場作る"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "夏タイヤと冬タイヤの違いとは"
+      }
+    ]
+  },
+  {
+    "issue": 87,
+    "year": 2019,
+    "month": 1,
+    "image": "/images/87.jpg",
+    "pdf": "/pdf/87.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "SALES",
+        "title": "2018年の日本での新規登録台数は437台 コンチネンタルGT効果などで史上2番目を記録"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "美しさと速さを兼ね備えたラグジュアリーモデル　BMW 8シリーズ クーペ/コンバーチブル"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "アメリカと日本の新作が主役となったデトロイトモーターショー 2019"
+      },
+      {
+        "page": 3,
+        "category": "EXHIBITION",
+        "title": "オートサロン2019 ダンロップブースに新旧ベントレー"
+      },
+      {
+        "page": 4,
+        "category": "LIMITED EDITION",
+        "title": "ベンテイガにマリナー特別仕様車登場 日本のみ10台限定で2月発売"
+      },
+      {
+        "page": 5,
+        "category": "MATERIALS",
+        "title": "コンバーチブルのルーフに初採用のツイードとはどんな素材？"
+      },
+      {
+        "page": 5,
+        "category": "OPTIONAL FEATURE",
+        "title": "コンチネンタルGTのブラックラインスペック"
+      },
+      {
+        "page": 5,
+        "category": "CULTURE",
+        "title": "ベンテイガの日本限定車 特別仕様のモチーフとは？"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "ソフトトップとメタルトップ"
+      }
+    ]
+  },
+  {
+    "issue": 86,
+    "year": 2018,
+    "month": 12,
+    "image": "/images/86.jpg",
+    "pdf": "/pdf/86.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "NEW MODEL",
+        "title": "新型コンチネンタルGTコンバーチブル発表"
+      },
+      {
+        "page": 2,
+        "category": "NEW MODEL",
+        "title": "新型コンチネンタルGTコンバーチブルの特徴"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "競合ブランドのオープントップモデル"
+      },
+      {
+        "page": 4,
+        "category": "MOTOR SPORT",
+        "title": "2019年のモータースポーツはさらに多くの耐久レース参戦へ"
+      },
+      {
+        "page": 5,
+        "category": "AWARD",
+        "title": "2018年にコンチネンタルGTが19の賞を受賞！"
+      },
+      {
+        "page": 5,
+        "category": "APPEARANCE",
+        "title": "セールスパーソンの身だしなみ ＜ネクタイ編＞"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "コンバーチブルを支えるテクノロジー"
+      }
+    ]
+  },
+  {
+    "issue": 85,
+    "year": 2018,
+    "month": 11,
+    "image": "/images/85.jpg",
+    "pdf": "/pdf/85.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "MATERIALS",
+        "title": "コンチネンタルGTに使われている世界から集めた最高品質の素材"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "競合ブランドが考える未来のクルマ"
+      },
+      {
+        "page": 3,
+        "category": "COLLABORATION",
+        "title": "ブライトリング for ベントレー 誕生から15周年を記念する特別モデルも登場"
+      },
+      {
+        "page": 4,
+        "category": "FUTURE",
+        "title": "ブリティッシュ ラグジュアリーの未来　RCAとコラボレーション"
+      },
+      {
+        "page": 5,
+        "category": "E-LEARNING",
+        "title": "受講必須のプログラムを年内に必ず終了してください"
+      },
+      {
+        "page": 5,
+        "category": "APPEARANCE",
+        "title": "セールスパーソンの身だしなみ ＜シャツ編＞"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "新世代のスタンダード LEDヘッドライトシステム"
+      }
+    ]
+  },
+  {
+    "issue": 84,
+    "year": 2018,
+    "month": 10,
+    "image": "/images/84.jpg",
+    "pdf": "/pdf/84.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "TECHNOLOGY",
+        "title": "数字で見る新型コンチネンタルGTのテクノロジー"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "EVからスポーツカーまで注目の新型車が登場 パリ・モーターショー 2018"
+      },
+      {
+        "page": 3,
+        "category": "APPEARANCE",
+        "title": "セールスパーソンの身だしなみ ＜スーツ編＞"
+      },
+      {
+        "page": 4,
+        "category": "NETWORK APP",
+        "title": "日本でもネットワークアプリを導入へ 顧客とメーカーをつなぐExtraordinary Connection"
+      },
+      {
+        "page": 5,
+        "category": "AWARD",
+        "title": "新型コンチネンタルGTが2部門で受賞 German Design Award 2018"
+      },
+      {
+        "page": 5,
+        "category": "PEOPLE",
+        "title": "クルー本社で新たに83人が仲間入り 技術部門以外でも研修生を受け入れ"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "100周年のベントレーをポラロイドを象徴するカメラで撮影"
+      },
+      {
+        "page": 5,
+        "category": "DINING",
+        "title": "ラグジュアリーの新たな形 UAEの高地にベントレーのレストラン"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "タイヤ構造&コンパウンドの基礎"
+      }
+    ]
+  },
+  {
+    "issue": 83,
+    "year": 2018,
+    "month": 9,
+    "image": "/images/83.jpg",
+    "pdf": "/pdf/83.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "CENTENARY",
+        "title": "ユニークな100周年仕様が登場 2019年生産の全モデルに設定"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "最新の走行安全支援システムでアップデート メルセデス・ベンツ Sクラス クーペ/カブリオレ"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITORS INFORMATION",
+        "title": "モントレー・カー・ウィークで発表されたニューモデル"
+      },
+      {
+        "page": 3,
+        "category": "CENTENARY",
+        "title": "100周年記念車 ミュルザンヌ W.O. エディション by マリナーの特徴"
+      },
+      {
+        "page": 4,
+        "category": "HANDOVER",
+        "title": "ハンドオーバーのMust Tell & Must Know"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "2代目コンチネンタルGT3が日本初登場 ワークスチームが日本のファンを魅了"
+      },
+      {
+        "page": 5,
+        "category": "EVENT",
+        "title": "ペブルビーチで初お披露目　ミュルザンヌ W.O. エディション by マリナー"
+      },
+      {
+        "page": 5,
+        "category": "COLLABORATION",
+        "title": "ファーバー-カステルとのコラボ商品を販売開始"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "50：50の前後重量配分が理想なのはナゼか？"
+      }
+    ]
+  },
+  {
+    "issue": 82,
+    "year": 2018,
+    "month": 8,
+    "image": "/images/82.jpg",
+    "pdf": "/pdf/82.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "CENTENARY",
+        "title": "100周年シリーズ［第1回］ 創業者W.O.ベントレー"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "21年ぶりに刷新されたショーファーカーの最高峰 トヨタ センチュリー"
+      },
+      {
+        "page": 3,
+        "category": "MULLINER",
+        "title": "マリナーの新作が続々と登場"
+      },
+      {
+        "page": 4,
+        "category": "CONFIGURATION",
+        "title": "理想のベンテイガ V8をご提案するために W12との価格差を埋められるオプション"
+      },
+      {
+        "page": 5,
+        "category": "MOVIE",
+        "title": "『007』シリーズ作者のR-Typeコンチネンタル"
+      },
+      {
+        "page": 5,
+        "category": "COLLABORATION",
+        "title": "コラボブランド物語　高級筆記具・ファーバーカステル"
+      },
+      {
+        "page": 5,
+        "category": "APPEARANCE",
+        "title": "セールスパーソンの身だしなみ ＜紳士靴編＞"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "オートマチックトランスミッションの今"
+      }
+    ]
+  },
+  {
+    "issue": 81,
+    "year": 2018,
+    "month": 7,
+    "image": "/images/81.jpg",
+    "pdf": "/pdf/81.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "CENTENARY",
+        "title": "100周年へのカウントダウン 継承してきたW.O.の哲学を表現する動画を公開"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "ついに登場したラグジュアリーSUVの頂点 ロールス・ロイス カリナン"
+      },
+      {
+        "page": 3,
+        "category": "CENTENARY",
+        "title": "リテーラーの皆様とともに100周年を祝福 記念事業成功に向けたガイドライン"
+      },
+      {
+        "page": 4,
+        "category": "MULLINER",
+        "title": "ミュルザンヌ W.O. エディション by マリナーを発表 100年のストーリーを表現する極上の1台"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "パイクスピークでベンテイガが躍動！ 市販SUV部門の記録を約2分更新"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "SUZUKA 10hにベントレー・チームMスポーツが参戦 日本屈指のサーキットでワークスチームの本気の走りを"
+      },
+      {
+        "page": 5,
+        "category": "RETAILER",
+        "title": "横浜店と世田谷店がオープン 首都圏での新たな販売拠点に期待"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "ベンテイガ V8の実力とは"
+      }
+    ]
+  },
+  {
+    "issue": 80,
+    "year": 2018,
+    "month": 6,
+    "image": "/images/80.jpg",
+    "pdf": "/pdf/80.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "TECHNOLOGY",
+        "title": "デイビッド・パーカーが語る新型コンチネンタルGTの技術"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "ついに日本導入となった新型メルセデス・ベンツ Gクラス"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "ベンテイガ V8、あらゆる地形を爽快に走破 エキサイティングなデザインと特徴的な技術に満ちたプレミアムSUV"
+      },
+      {
+        "page": 5,
+        "category": "E-LEARNING",
+        "title": "eAcademyのトレーニングモジュール"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "新型コンチネンタルGT3が初の表彰台！ ブランパンGTシリーズ ポール・リカール1000km"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "世界のADAS（先進運転支援システム）事情"
+      }
+    ]
+  },
+  {
+    "issue": 79,
+    "year": 2018,
+    "month": 5,
+    "image": "/images/79.jpg",
+    "pdf": "/pdf/79.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "TRAINING",
+        "title": "新型コンチネンタルGTのグローバル研修 参加者が感じたこのクルマの魅力"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "世界初のフルサイズSUVクーペが登場 ランドローバー・レンジローバー SV クーペ"
+      },
+      {
+        "page": 3,
+        "category": "CENTENARY",
+        "title": "創業100周年まであと半年余り 各種キャンペーンツールの有効活用を"
+      },
+      {
+        "page": 4,
+        "category": "MULLINER",
+        "title": "お客様が求めるあらゆることを ステファン・シーラフが語るマリナーの可能性"
+      },
+      {
+        "page": 5,
+        "category": "HISTORY",
+        "title": "ル・マンで6度優勝の栄光の歴史 世紀をまたいだ伝説こそベントレーの真髄"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "レース観戦に最適なグッズが勢揃い モータースポーツ コレクション発売中"
+      },
+      {
+        "page": 5,
+        "category": "HOME",
+        "title": "家具の展示会にベントレー ホームが出展 コンチネンタルGTの内装をイメージしたデザインを紹介"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "電動化時代の電気の基礎知識"
+      }
+    ]
+  },
+  {
+    "issue": 78,
+    "year": 2018,
+    "month": 4,
+    "image": "/images/78.jpg",
+    "pdf": "/pdf/78.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "INTERVIEW",
+        "title": "ブランドこそがすべて クリス・クラフト取締役（セールス＆マーケティング担当）インタビュー"
+      },
+      {
+        "page": 2,
+        "category": "CONFERENCE",
+        "title": "グローバル リテーラー カンファレンス開催　潜在顧客の発掘はExtraordinary体験が鍵"
+      },
+      {
+        "page": 3,
+        "category": "MULLINER",
+        "title": "ジョッキークラブ仕様のベンテイガ登場　歴史と伝統のコラボレーション"
+      },
+      {
+        "page": 4,
+        "category": "COMPETITORS INFORMATION",
+        "title": "4ドアスポーツカー市場活性化の予感 メルセデス AMG GT 4ドア クーペ"
+      },
+      {
+        "page": 5,
+        "category": "ENVIRONMENT",
+        "title": "ベントレー本社クルーで英国最大級の太陽光発電システム導入へ"
+      },
+      {
+        "page": 5,
+        "category": "MULLINER",
+        "title": "ベンテイガに指紋認証セキュリティシステム"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "パイクスピークのドライバーとしてリース・ミレンと契約"
+      },
+      {
+        "page": 5,
+        "category": "TRAINING",
+        "title": "オマーンで新型コンチネンタルGTの研修を実施"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "JC08、NEDCからWLTPへ"
+      }
+    ]
+  },
+  {
+    "issue": 77,
+    "year": 2018,
+    "month": 3,
+    "image": "/images/77.jpg",
+    "pdf": "/pdf/77.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "FUTURE",
+        "title": "ベントレーがEVで描く次の100年 ラグジュアリーの未来へ"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "各社が個性的なニューモデルを発表したジュネーブ・モーターショー 2018"
+      },
+      {
+        "page": 3,
+        "category": "TRAINING",
+        "title": "新型コンチネンタルGTの試乗研修を実施"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "ジュネーブでベールを脱いだベンテイガ ハイブリッド"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "新型コンチネンタルGT3がサーキットで初披露"
+      },
+      {
+        "page": 5,
+        "category": "COLLABORATION",
+        "title": "新作アイウェアが登場　Bentley ✕ Estede"
+      },
+      {
+        "page": 5,
+        "category": "COLOURS",
+        "title": "19MYのカラーチャートが完成しました"
+      },
+      {
+        "page": 5,
+        "category": "DESIGNER",
+        "title": "フィリップ・スタルクがデザインした日本のあのビル"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "48V システム"
+      }
+    ]
+  },
+  {
+    "issue": 76,
+    "year": 2018,
+    "month": 2,
+    "image": "/images/76.jpg",
+    "pdf": "/pdf/76.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "LIMITED EDITION",
+        "title": "日本市場限定モデルが登場 フライングスパー V8 S ストラトゥス エディション by マリナー"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "大胆に生まれ変わったサラブレッド・スポーツカー 新型アストンマーティン ヴァンテージ"
+      },
+      {
+        "page": 3,
+        "category": "MATERIALS",
+        "title": "持続可能でユニークかつ最高のウッドパネルを求めて"
+      },
+      {
+        "page": 4,
+        "category": "MULLINER",
+        "title": "BETTER by DESIGN ビスポーク&限定車のプロダクトマネージャーが語るマリナーによるパーソナライゼーション"
+      },
+      {
+        "page": 5,
+        "category": "INFORMATION",
+        "title": "Academyの受講をお忘れなく"
+      },
+      {
+        "page": 5,
+        "category": "AWARD",
+        "title": "EXP 12 Speed 6eがグッドデザイン賞を受賞"
+      },
+      {
+        "page": 5,
+        "category": "AWARD",
+        "title": "ベントレー モーターズが7年連続でトップエンプロイヤーに選出"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "W12エンジンの特徴と最新技術"
+      }
+    ]
+  },
+  {
+    "issue": 75,
+    "year": 2018,
+    "month": 1,
+    "image": "/images/75.jpg",
+    "pdf": "/pdf/75.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "SALES",
+        "title": "2017年の日本での新規登録台数は416台 モデル別ではベンテイガが最多"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "ついに全面刷新されたオフローダーの帝王　新型メルセデス・ベンツ Gクラス"
+      },
+      {
+        "page": 3,
+        "category": "MATERIALS",
+        "title": "ダイナミックなクーペシルエットに一新　レクサス LS"
+      },
+      {
+        "page": 3,
+        "category": "MOTOR SPORT",
+        "title": "2018年のベントレー・ボーイズにジュール・グーノンが加入"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "ベンテイガ V8を発表 よりスポーティでアグレッシブに"
+      },
+      {
+        "page": 5,
+        "category": "TOPICS",
+        "title": "英国メディアなどがローテーションディスプレイを絶賛"
+      },
+      {
+        "page": 5,
+        "category": "PLACE",
+        "title": "ベントレーゆかりの地 パンクハースト ロンドン"
+      },
+      {
+        "page": 5,
+        "category": "CULTURE",
+        "title": "1936年設立の伝統を誇るベントレー ドライバーズ クラブ"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "トラフィック・ジャム・アシスト"
+      }
+    ]
+  },
+  {
+    "issue": 74,
+    "year": 2017,
+    "month": 12,
+    "image": "/images/74.jpg",
+    "pdf": "/pdf/74.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "TRAINING",
+        "title": "新型コンチネンタルGTのスタティックトレーニングを実施"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "満を持して登場したスーパーSUV ランボルギーニ ウルス"
+      },
+      {
+        "page": 3,
+        "category": "AWARD",
+        "title": "ベントレーが2017年に受けた数々の栄誉"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "新型コンチネンタルGTの導入を日本で正式に発表"
+      },
+      {
+        "page": 5,
+        "category": "EMISSIONS",
+        "title": "燃費・排ガスの新基準「WLTP」とは？"
+      },
+      {
+        "page": 5,
+        "category": "CONFIGURATOR",
+        "title": "デザイン部門のトップが描く「夢のコンチネンタルGT」"
+      },
+      {
+        "page": 5,
+        "category": "SNS",
+        "title": "ベントレー モーターズ ジャパンの公式Facebookのフォロワー数が1万人を突破"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "台形トルクカーブの特徴"
+      }
+    ]
+  },
+  {
+    "issue": 73,
+    "year": 2017,
+    "month": 11,
+    "image": "/images/73.jpg",
+    "pdf": "/pdf/73.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "NUMBERS",
+        "title": "数字でみる新型コンチネンタルGT"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "世界最大のディーラーを東京にオープン 積極攻勢をかけるアストンマーティンの今"
+      },
+      {
+        "page": 3,
+        "category": "BOARD MEMBERS",
+        "title": "ベントレー モーターズ会長兼CEOにエイドリアン・ホールマーク氏が就任"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "唯一無二の究極のグランドツアラーとして"
+      },
+      {
+        "page": 5,
+        "category": "E-LEARNING",
+        "title": "新型コンチネンタルGTのeAcademyが開始"
+      },
+      {
+        "page": 5,
+        "category": "SNS",
+        "title": "ベントレー モーターズ ジャパンのオフィシャルFacebookページ開設"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "新型コンチネンタルGTベースのニューマシンで挑む2018年シーズン"
+      },
+      {
+        "page": 5,
+        "category": "ACCESSORIES",
+        "title": "新型コンチネンタルGT向けのラゲッジ用バッグを発表"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "パワーステアリングの今"
+      }
+    ]
+  },
+  {
+    "issue": 72,
+    "year": 2017,
+    "month": 10,
+    "image": "/images/72.jpg",
+    "pdf": "/pdf/72.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "TRAINING",
+        "title": "Becoming Bentleyを実施 セールススタッフなど20人が受講"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "イメージを一新したコンバーチブルGT フェラーリ ポルトフィーノ"
+      },
+      {
+        "page": 3,
+        "category": "MOTOR SPORT",
+        "title": "耐久カップでチームタイトル獲得　ブランパンGTシリーズ最終戦"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "伝統と革新の融合　新型コンチネンタルGTのインテリアの特徴"
+      },
+      {
+        "page": 5,
+        "category": "MULLINER",
+        "title": "ミュルザンヌの新作　デザインシリーズ by Mulliner"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "景勝地バードヒンデラングでクラシックベントレーがラリー参戦"
+      },
+      {
+        "page": 5,
+        "category": "COLLABORATION",
+        "title": "新型コンチネンタルGTの登場記念 ブライトリングが限定モデルを発表"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "3チャンバー エアサスペンション"
+      }
+    ]
+  },
+  {
+    "issue": 71,
+    "year": 2017,
+    "month": 9,
+    "image": "/images/71.jpg",
+    "pdf": "/pdf/71.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "NEW MODEL",
+        "title": "新型コンチネンタルGT ワールドプレミア"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "ドイツ車を中心に注目の新型車が登場 フランクフルト・モーターショー 2017"
+      },
+      {
+        "page": 3,
+        "category": "OPTION",
+        "title": "新型コンチネンタルGT FIRST EDITIONの追加装備"
+      },
+      {
+        "page": 4,
+        "category": "DESIGN",
+        "title": "新型コンチネンタルGTが受け継いだモチーフ"
+      },
+      {
+        "page": 5,
+        "category": "FUTURE",
+        "title": "ステファン・シーラフが語る未来への新たなビジョン"
+      },
+      {
+        "page": 5,
+        "category": "DIGITAL",
+        "title": "新型コンチネンタルGTがアプリで登場 ベントレーを収録したゲームもリリース"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "ベントレー コレクションに新作を追加 フランクフルトで女性用ハンドバッグなどを発表"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "デュアル・クラッチ・トランスミッション"
+      }
+    ]
+  },
+  {
+    "issue": "70-特別号",
+    "year": 2017,
+    "month": 8,
+    "image": "/images/70.jpg",
+    "pdf": "/pdf/70.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "NEW MODEL",
+        "title": "THE ALL-NEW CONTINENTAL GT"
+      },
+      {
+        "page": 2,
+        "category": "SUMMARY",
+        "title": "新世代のグランドツアラーとして進化した新型コンチネンタルGT"
+      },
+      {
+        "page": 3,
+        "category": "EXTERIOR",
+        "title": "エクステリア"
+      },
+      {
+        "page": 3,
+        "category": "PERFORMANCE",
+        "title": "パフォーマンス"
+      },
+      {
+        "page": 4,
+        "category": "INTERIOR",
+        "title": "インテリア"
+      },
+      {
+        "page": 5,
+        "category": "SAFETY",
+        "title": "安全装備"
+      },
+      {
+        "page": 5,
+        "category": "FIRST EDITION",
+        "title": "ファーストエディション"
+      }
+    ]
+  },
+  {
+    "issue": 70,
+    "year": 2017,
+    "month": 8,
+    "image": "/images/70.jpg",
+    "pdf": "/pdf/70.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "CAMPAIGN",
+        "title": "コンチネンタルGT、デビュー以来65,000台を製造 新キャンペーン「コンチネンタルストーリーズ」開始"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "各部を刷新して完成度を高めた メルセデス・ベンツ Sクラス"
+      },
+      {
+        "page": 3,
+        "category": "MOTOR SPORT",
+        "title": "スパ24時間で2位表彰台を獲得！ ブランパンGTシリーズ"
+      },
+      {
+        "page": 4,
+        "category": "HISTORY",
+        "title": "新旧ベントレーボーイズ 語り継がれる伝説"
+      },
+      {
+        "page": 5,
+        "category": "PRODUCT",
+        "title": "ベンテイガ用の格納式シルステップが登場"
+      },
+      {
+        "page": 5,
+        "category": "PEOPLE",
+        "title": "デザインディレクターのシーラフ氏がMullinerの責任者も兼務"
+      },
+      {
+        "page": 5,
+        "category": "DIGITAL",
+        "title": "コンフィギュレーターが新機能を備えて8月31日に登場"
+      },
+      {
+        "page": 5,
+        "category": "EVENT",
+        "title": "新型コンチネンタルGTの2Dイベントを全国で開催"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "スペックから見るベンテイガのオフロード性能"
+      }
+    ]
+  },
+  {
+    "issue": 69,
+    "year": 2017,
+    "month": 7,
+    "image": "/images/69.jpg",
+    "pdf": "/pdf/69.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "STUDY TOUR",
+        "title": "セールススタッフが見た英国ベントレー グッドウッドとクルー工場を視察"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "新世代レクサスのグラッグシップクーペ　レクサス LC"
+      },
+      {
+        "page": 3,
+        "category": "MOTOR SPORT",
+        "title": "ブランパンGTシリーズで今季初勝利！「完璧なレース」で1000kmを制す"
+      },
+      {
+        "page": 4,
+        "category": "MULLINER",
+        "title": "Mullinerの新作が続々と登場"
+      },
+      {
+        "page": 5,
+        "category": "REVIEW",
+        "title": "グッドウッドでコンチネンタルSupersportsなどが疾走！"
+      },
+      {
+        "page": 5,
+        "category": "NEWS",
+        "title": "ブラックスペックをベンテイガに導入"
+      },
+      {
+        "page": 5,
+        "category": "CULTURE",
+        "title": "英国の象徴「ビッグ・ベン」の由来は？"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "熱反射ガラス"
+      }
+    ]
+  },
+  {
+    "issue": 68,
+    "year": 2017,
+    "month": 6,
+    "image": "/images/68.jpg",
+    "pdf": "/pdf/68.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "BESPOKE",
+        "title": "Mullinerが「鷹狩」仕様のベンテイガを発表"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "第2世代に入ったスーパーシリーズ マクラーレン 720S"
+      },
+      {
+        "page": 3,
+        "category": "AWARD",
+        "title": "新卒者が選ぶトップエンプロイヤーに選出　英国全体でも2番目の高評価"
+      },
+      {
+        "page": 4,
+        "category": "LONDON",
+        "title": "ロンドンにあるベントレーゆかりの地"
+      },
+      {
+        "page": 6,
+        "category": "MULLINER",
+        "title": "ミュルザンヌにセレニティ・グリル by Mullinerが登場"
+      },
+      {
+        "page": 6,
+        "category": "SPECIAL",
+        "title": "欧州向け特別限定車　コンチネンタル24を発表"
+      },
+      {
+        "page": 6,
+        "category": "CULTURE",
+        "title": "ユニオンジャックの成り立ち"
+      },
+      {
+        "page": 7,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "自動運転の今"
+      }
+    ]
+  },
+  {
+    "issue": 67,
+    "year": 2017,
+    "month": 5,
+    "image": "/images/67.jpg",
+    "pdf": "/pdf/67.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "ENVIRONMENT",
+        "title": "緑多き未来へ ベントレーの環境方針"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "ボディバリエーション追加で新たな層を開拓 ポルシェ パナメーラ Sport Turismo"
+      },
+      {
+        "page": 3,
+        "category": "MOTOR SPORT",
+        "title": "日本国内のレースにコンチネンタルGTが参戦"
+      },
+      {
+        "page": 4,
+        "category": "HYBRID",
+        "title": "ベントレーのPHEVプログラム 2020年にラインアップの9割に展開"
+      },
+      {
+        "page": 5,
+        "category": "MEDIA",
+        "title": "WardsAuto、ベンテイガを「10ベストインテリア」に選出"
+      },
+      {
+        "page": 5,
+        "category": "EV",
+        "title": "上海オートショーでEVなど展示 ラグジュアリーの未来を示す"
+      },
+      {
+        "page": 5,
+        "category": "ROYAL WARRANT",
+        "title": "身近にあるロイヤルワラント"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "バルブ駆動システムの今"
+      }
+    ]
+  },
+  {
+    "issue": 66,
+    "year": 2017,
+    "month": 4,
+    "image": "/images/66.jpg",
+    "pdf": "/pdf/66.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "CAMPAIGN",
+        "title": "「Look Closer」の第2弾 ドバイの街中にあるベントレーは…"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "800cvのV12を搭載するフラッグシップ フェラーリ 812 Superfast"
+      },
+      {
+        "page": 3,
+        "category": "CONCEPT CAR",
+        "title": "EXP 12 Speed 6eに対するお問い合わせをいただいたら？"
+      },
+      {
+        "page": 4,
+        "category": "CLASSIC BENTLEY",
+        "title": "研修生がレストアするクラシックベントレー"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "開幕戦で2位表彰台を獲得！ ブランパンGTシリーズ"
+      },
+      {
+        "page": 5,
+        "category": "RETAILER",
+        "title": "ベントレー神戸がグランドオープン"
+      },
+      {
+        "page": 5,
+        "category": "MY FLYING B",
+        "title": "My Flying Bの低金利キャンペーンを実施"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "『ツイン』ターボのいろいろ"
+      }
+    ]
+  },
+  {
+    "issue": 65,
+    "year": 2017,
+    "month": 3,
+    "image": "/images/65.jpg",
+    "pdf": "/pdf/65.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "COMPETITORS INFORMATION",
+        "title": "究極のパフォーマンスと至高のラグジュアリーの邂逅 GENEVA INTERNATIONAL MOTOR SHOW"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "各社から話題のニューモデルが登場 ジュネーブ・モーターショー 2017"
+      },
+      {
+        "page": 3,
+        "category": "MOTOR SPORT",
+        "title": "ワークスチームが挑む2017シーズン 悲願のタイトル奪取へ向け一丸"
+      },
+      {
+        "page": 4,
+        "category": "CONCEPT CAR",
+        "title": "EXP 12 Speed 6eが描く力強く新しい世界"
+      },
+      {
+        "page": 5,
+        "category": "RETAILER",
+        "title": "ベントレー広島が新CIを導入しリニューアルオープン"
+      },
+      {
+        "page": 5,
+        "category": "OPTION",
+        "title": "実用性をさらに高めるベンテイガ用オプション登場"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "車のモチーフを採用したコレクション アイコニック・クラシック"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "「走る、曲がる、止まる」の電子制御"
+      },
+      {
+        "page": 7,
+        "category": "FEATURE",
+        "title": "DESIGNING THE B-SIDE フライングBのB面を探る"
+      },
+      {
+        "page": 7,
+        "category": "FEATURE",
+        "title": "OUT OF SIGHT BUT NOT OUT OF MIND 見えぬけれども、そこにあるもの"
+      }
+    ]
+  },
+  {
+    "issue": 64,
+    "year": 2017,
+    "month": 2,
+    "image": "/images/64.jpg",
+    "pdf": "/pdf/64.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "NEW MODEL",
+        "title": "日本限定12台のコンチネンタルGT V8 Sが誕生 Mooncloud Edition by Mulliner"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "レンジローバー 新たなグレード追加と通信機能を初導入"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITORS INFORMATION",
+        "title": "マセラティ クアトロポルテ フェイスリフトに合わせて装備と機能を拡充"
+      },
+      {
+        "page": 3,
+        "category": "MOTOR SPORT",
+        "title": "2017年は幸先の良いスタート。バサースト12時間で3位表彰台！"
+      },
+      {
+        "page": 4,
+        "category": "EXPERIENCE",
+        "title": "クルー工場の見学でも最高のベントレーらしい体験を"
+      },
+      {
+        "page": 5,
+        "category": "TRAINING",
+        "title": "セールススタッフ向けのマリナートレーニングを実施"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "コンチネンタルSUPERSPORTS発売記念 ブライトリングforベントレーに新作が登場"
+      },
+      {
+        "page": 5,
+        "category": "AWARD",
+        "title": "ベントレーがトップ・エンプロイヤーに。育成と採用プロセスが評価され6年連続受賞"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "ヘッドライトの明るさの単位"
+      }
+    ]
+  },
+  {
+    "issue": 63,
+    "year": 2017,
+    "month": 1,
+    "image": "/images/63.jpg",
+    "pdf": "/pdf/63.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "FUTURE",
+        "title": "デュルハイマー会長兼CEOが描くラグジュアリーの未来"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "個性豊かなモデルでラインアップを拡充 ポルシェ パナメーラ"
+      },
+      {
+        "page": 3,
+        "category": "SALES",
+        "title": "2016年の世界での販売台数は過去最高を記録 前年比9％増の1万1023台"
+      },
+      {
+        "page": 4,
+        "category": "MULLINER",
+        "title": "フライングスパー向けMullinerのビスポーク"
+      },
+      {
+        "page": 5,
+        "category": "PRODUCT",
+        "title": "ベンテイガONYXが登場 台数限定の特別仕様車"
+      },
+      {
+        "page": 5,
+        "category": "EXTRAORDINARY",
+        "title": "「ベントレー ガールズ」をご存じですか？"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "リコール/改善対策/サービスキャンペーンの違い"
+      }
+    ]
+  },
+  {
+    "issue": 62,
+    "year": 2016,
+    "month": 12,
+    "image": "/images/62.jpg",
+    "pdf": "/pdf/62.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "TOPICS",
+        "title": "ベンテイガ発売から1年 世界で受けた12の栄誉"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "メルセデス・マイバッハ ブランドの頂点 メルセデス・マイバッハ S 600 プルマンの特長"
+      },
+      {
+        "page": 3,
+        "category": "BESPOKE",
+        "title": "ビスポークで「オンリーワン」のベントレーを Mullinerの世界"
+      },
+      {
+        "page": 4,
+        "category": "HERITAGE",
+        "title": "R-Typeコンチネンタルが現在のベントレーにもたらしたもの"
+      },
+      {
+        "page": 5,
+        "category": "CULTURE",
+        "title": "ロイヤルワラントを付与されたブランド"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "ベントレーコレクションの新作が登場"
+      },
+      {
+        "page": 5,
+        "category": "TOPICS",
+        "title": "ベンテイガ ディーゼルのデュオトーン試作車を公開"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "CAN"
+      }
+    ]
+  },
+  {
+    "issue": 61,
+    "year": 2016,
+    "month": 11,
+    "image": "/images/61.jpg",
+    "pdf": "/pdf/61.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "DESIGN",
+        "title": "ステファン・シーラフが語るラグジュアリーの未来"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "ハイブリッドとV12モデルを追加してラインアップを拡充 BMW 7シリーズ"
+      },
+      {
+        "page": 3,
+        "category": "MOTOR SPORT",
+        "title": "チーム・アブソリュートがGTアジア2連覇を達成！"
+      },
+      {
+        "page": 4,
+        "category": "HERITAGE",
+        "title": "ベントレー伝統のモチーフ"
+      },
+      {
+        "page": 5,
+        "category": "CREWE",
+        "title": "アン王女殿下がベントレー本社の新施設をご訪問"
+      },
+      {
+        "page": 5,
+        "category": "CLOCK",
+        "title": "トゥールビヨンとはどんな時計？"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "電子制御システム"
+      }
+    ]
+  },
+  {
+    "issue": "60-特別号",
+    "year": 2016,
+    "month": 10,
+    "image": "/images/60-2.jpg",
+    "pdf": "/pdf/60-2.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "ADVANCED SAFETY EQUIPMENT",
+        "title": "ベンテイガの先進安全装備の操作方法"
+      },
+      {
+        "page": 1,
+        "category": "ADVANCED SAFETY EQUIPMENT",
+        "title": "日本仕様のベンテイガの先進安全装備について"
+      },
+      {
+        "page": 2,
+        "category": "OPERATION OF BENTAYGA",
+        "title": "全車標準装備"
+      },
+      {
+        "page": 3,
+        "category": "OPERATION OF BENTAYGA",
+        "title": "シティスペックに含まれるドライバーアシストシステム"
+      },
+      {
+        "page": 5,
+        "category": "OPERATION OF BENTAYGA",
+        "title": "ツーリングスペックに含まれるドライバーアシストシステム"
+      },
+      {
+        "page": 7,
+        "category": "OPERATION OF BENTAYGA",
+        "title": "車高とドライブダイナミクス"
+      },
+      {
+        "page": 8,
+        "category": "OPERATION OF BENTAYGA",
+        "title": "緊急時の操作方法など"
+      },
+      {
+        "page": 9,
+        "category": "OPERATION OF BENTAYGA",
+        "title": "質問事項と回答"
+      }
+    ]
+  },
+  {
+    "issue": 60,
+    "year": 2016,
+    "month": 10,
+    "image": "/images/60.jpg",
+    "pdf": "/pdf/60.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "NEW MODEL",
+        "title": "ベントレー初のディーゼルエンジン搭載モデル ベンテイガ ディーゼル発表"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "日常の足にも使える実用的なマクラーレン マクラーレン 570SGTの特長"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITORS INFORMATION",
+        "title": "パリ・モーターショーで発表されたニューモデル"
+      },
+      {
+        "page": 3,
+        "category": "TRAINING",
+        "title": "ベンテイガの先進安全装備に関するトレーニングを実施"
+      },
+      {
+        "page": 4,
+        "category": "BENTLEY STORY",
+        "title": "マスター・オブ・スピード デレク・ベル氏が語るベントレー"
+      },
+      {
+        "page": 5,
+        "category": "AWARD",
+        "title": "ジャーマン デザイン カウンシル主催のコンテストで「チーム・オブ・ザ・イヤー」を受賞"
+      },
+      {
+        "page": 5,
+        "category": "PERSONALIZATION",
+        "title": "パーソナライゼーション・スタジオ ロンドンにオープン ベントレーブランド体験が可能に"
+      },
+      {
+        "page": 5,
+        "category": "DESIGN",
+        "title": "ベンテイガのシートのモチーフ「ハンティングジャケット」とは？"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "バイキセノンヘッドランプ"
+      }
+    ]
+  },
+  {
+    "issue": 59,
+    "year": 2016,
+    "month": 9,
+    "image": "/images/59.jpg",
+    "pdf": "/pdf/59.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "EVENT",
+        "title": "ウィンザー城に新旧150台のベントレーが集結 コンクール・オブ・エレガンス"
+      },
+      {
+        "page": 1,
+        "category": "BOARD MEMBER",
+        "title": "新取締役にオファーマン氏が就任"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "Hondaが生み出した新時代のスーパースポーツ ホンダ NSXの特長"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITORS INFORMATION",
+        "title": "北米のイベントで発表されたエクスクルーシブなモデル"
+      },
+      {
+        "page": 3,
+        "category": "E-LEARNING",
+        "title": "Eラーニングの受講方法が変わります"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "ベントレー史上最速のセダン登場　フライングスパー W12 S"
+      },
+      {
+        "page": 5,
+        "category": "DESIGNER",
+        "title": "エクステリアデザイン部門のリーダーにグレゴリー氏"
+      },
+      {
+        "page": 5,
+        "category": "WEBSITE",
+        "title": "メディアサイトがリニューアル　新着情報が見やすくなり使い勝手が向上"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "連続表彰台の9号車 Venter/澤組の8号車は優勝 GTアジア第9戦・第10戦"
+      },
+      {
+        "page": 5,
+        "category": "CUSTOMER BOOK",
+        "title": "ミュルザンヌ（17MY）のカスタマーブック完成"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "The Parts Supplier of Bentley Vol.3 brembo"
+      }
+    ]
+  },
+  {
+    "issue": 58,
+    "year": 2016,
+    "month": 8,
+    "image": "/images/58.jpg",
+    "pdf": "/pdf/58.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "TOPICS",
+        "title": "「ブラックライン アクセサリーパック」のご紹介"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "よりスポーティに生まれ変わったラグジュアリーサルーン ポルシェ パナメーラの特長"
+      },
+      {
+        "page": 3,
+        "category": "NEW PRODUCT",
+        "title": "ベンテイガに新たなビスポーク製品登場 フライフィッシング by Mulliner"
+      },
+      {
+        "page": 4,
+        "category": "FUN FACT",
+        "title": "徹底した品質管理を行うベントレー"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "ブランパンGTシリーズ 総合順位でチームMスポーツは現在4位"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "コラボブランド物語 zai for Bentley"
+      },
+      {
+        "page": 5,
+        "category": "CONFIGURATOR",
+        "title": "新コンフィギュレーターの機能"
+      },
+      {
+        "page": 6,
+        "category": "TRAINING",
+        "title": "ベンテイガの機能に関するQ&A"
+      }
+    ]
+  },
+  {
+    "issue": 57,
+    "year": 2016,
+    "month": 7,
+    "image": "/images/57.jpg",
+    "pdf": "/pdf/57.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "NUMBERS",
+        "title": "数字で見るトレーニング"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "ダイナミックに生まれ変わった最高級ロードスター メルセデス・ベンツ SLの特長"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITORS INFORMATION",
+        "title": "限定モデルを矢継ぎ早にリリースするアストンマーティン"
+      },
+      {
+        "page": 3,
+        "category": "MOTOR SPORT",
+        "title": "GTアジア、岡山でFong/Kim組が優勝を含む連続表彰台！ 富士の第8戦では澤/Venter組が2位に"
+      },
+      {
+        "page": 4,
+        "category": "QUALITY",
+        "title": "ベントレーの品質向上プロジェクト"
+      },
+      {
+        "page": 5,
+        "category": "TOOLKIT",
+        "title": "ベンテイガやミュルザンヌのツールキットがDMNからダウンロード可"
+      },
+      {
+        "page": 5,
+        "category": "CAMPAIGN",
+        "title": "Care2Saveと「Bentley by Me」キャンペーンを実施"
+      },
+      {
+        "page": 5,
+        "category": "TOPICS",
+        "title": "宇宙探査技術を用いて撮影したミュルザンヌの超高解像度画像を公開新コンフィギュレーターの機能"
+      },
+      {
+        "page": 5,
+        "category": "GOLF",
+        "title": "Bentley Golfに日本製ギアを採用"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "The Parts Supplier of Bentley Vol.2 ZF"
+      }
+    ]
+  },
+  {
+    "issue": 56,
+    "year": 2016,
+    "month": 6,
+    "image": "/images/56.jpg",
+    "pdf": "/pdf/56.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "TOPICS",
+        "title": "ベンテイガ、ついに日本で正式発表"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "スーパースポーツの性能を備えたプレステージサルーン アウディS8 plusの特長"
+      },
+      {
+        "page": 3,
+        "category": "MOTOR SPORT",
+        "title": "ニュルブルクリンク24時間で7位入賞"
+      },
+      {
+        "page": 4,
+        "category": "TECHNOLOGY",
+        "title": "ベントレーのPHEV構想 ラインナップの強化と革新のイメージ醸成へ"
+      },
+      {
+        "page": 5,
+        "category": "APPLICATION",
+        "title": "Apple Watchにベンテイガ用アプリ登場"
+      },
+      {
+        "page": 5,
+        "category": "EVENT",
+        "title": "グッドウッド・フェスティバルで新型3モデルがUKデビュー"
+      },
+      {
+        "page": 5,
+        "category": "COLLABORATION",
+        "title": "コラボブランド物語　セントレジスホテル編"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "The Parts Supplier of Bentley Vol.1 ピレリ"
+      }
+    ]
+  },
+  {
+    "issue": 55,
+    "year": 2016,
+    "month": 5,
+    "image": "/images/55.jpg",
+    "pdf": "/pdf/55.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "TOPICS",
+        "title": "高い技術力で来場者を魅了 北京モーターショー"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "ついにマセラティもSUV市場に参入 マセラティ・レヴァンテの特長"
+      },
+      {
+        "page": 3,
+        "category": "MOTOR SPORT",
+        "title": "GT Asiaシリーズ開幕 コンチネンタルGT3が2連勝！"
+      },
+      {
+        "page": 4,
+        "category": "CRAFTMANSHIP",
+        "title": "ベントレーのクラフトマンシップ 熟練の技が創り出す芸術的な1台"
+      },
+      {
+        "page": 5,
+        "category": "AWARD",
+        "title": "ベンテイガがSUVオブ・ザ・イヤー受賞 英国誌Robb Reportによる最高評価"
+      },
+      {
+        "page": 5,
+        "category": "TRAINING",
+        "title": "Becoming Bentleyトレーニングを実施 全国から集った19人が受講"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "コラボブランド物語　ブライトリング編"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "クルマに使われている金属素材の種類と特徴"
+      }
+    ]
+  },
+  {
+    "issue": 54,
+    "year": 2016,
+    "month": 4,
+    "image": "/images/54.jpg",
+    "pdf": "/pdf/54.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "NEW MODEL",
+        "title": "新型コンチネンタルGT Speedを発表"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "すべてが一新されたDBシリーズの最新作 アストンマーティン DB11の特長"
+      },
+      {
+        "page": 3,
+        "category": "TRAINING",
+        "title": "「Becoming Bentley」の研修を今年も実施"
+      },
+      {
+        "page": 3,
+        "category": "MOTOR SPORT",
+        "title": "ベントレー史上最大規模のレースプログラムを発表"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "17MYミュルザンヌの特徴 初のフェイスリフトで高級感とベントレーのDNAを強調"
+      },
+      {
+        "page": 5,
+        "category": "NEW MODEL",
+        "title": "ベンテイガのデリバリーを開始"
+      },
+      {
+        "page": 5,
+        "category": "NEW MODEL",
+        "title": "コンチネンタルGT V8 S by Blake"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "コラボブランド物語　Tibaldi（ティバルディ編）"
+      },
+      {
+        "page": 5,
+        "category": "CAMPAIGN",
+        "title": "Be Extraordinary キャンペーンが銀賞を受賞"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "ベントレー ダイナミック ライド 48V アクティブ ロール コントロール"
+      },
+      {
+        "page": 7,
+        "category": "FINANCE",
+        "title": "My Flying B"
+      }
+    ]
+  },
+  {
+    "issue": 53,
+    "year": 2016,
+    "month": 3,
+    "image": "/images/53.jpg",
+    "pdf": "/pdf/53.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "TOPICS",
+        "title": "ベンテイガ研修に日本から5人が参加 車両の完成度の高さを実感"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "ジュネーブ・モーターショー 2016 リポート 話題の競合モデルが数多く発表"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "フライングスパー V8 Sの投入でラインナップが充実"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "2016年GTアジアの日程が決定 日本ラウンドは7月に岡山と富士で"
+      },
+      {
+        "page": 5,
+        "category": "RETAILER",
+        "title": "ベントレー福岡がグランドオープン"
+      },
+      {
+        "page": 5,
+        "category": "GUIDE LINE",
+        "title": "プレオウンドの掲載写真撮影について"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "新設計 6.0L W12 TSI エンジン"
+      }
+    ]
+  },
+  {
+    "issue": 52,
+    "year": 2016,
+    "month": 2,
+    "image": "/images/52.jpg",
+    "pdf": "/pdf/52.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "INTERVIEW",
+        "title": "2016年の展望 ケビン・ローズ役員インタビュー"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "新型エンジンで高性能と高効率を両立 新型ポルシェ911の特長"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITORS INFORMATION",
+        "title": "レクサスが投入した最上級SUVモデル レクサスLX570の特長"
+      },
+      {
+        "page": 3,
+        "category": "TOPICS",
+        "title": "着々と進むベンテイガのトレーニング"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "ベンテイガの特長 インテリア"
+      },
+      {
+        "page": 5,
+        "category": "TOPICS",
+        "title": "Mullinerの新作が続々と発表"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "GT3の2016年シーズンは視界良好 今季初レースのバサースト12時間で3位"
+      },
+      {
+        "page": 5,
+        "category": "EVENT",
+        "title": "パワーオンアイス2016にベンテイガ登場"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "ドライバーアシストシステム（DAS）の安全機能"
+      }
+    ]
+  },
+  {
+    "issue": 51,
+    "year": 2016,
+    "month": 1,
+    "image": "/images/51.jpg",
+    "pdf": "/pdf/51.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "TOPICS",
+        "title": "ベンテイガ生産ラインが稼働開始"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITORS INFORMATION",
+        "title": "名実ともにSUVのSクラス メルセデス・ベンツ GLSの特徴"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITORS INFORMATION",
+        "title": "レンジローバーに追加された最上級モデル レンジローバー SV Autobiographyの特長"
+      },
+      {
+        "page": 3,
+        "category": "TOPICS",
+        "title": "ベンテイガのEラーニングは日本・韓国地区が地域別でトップに"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "ベンテイガの特長 エクステリア"
+      },
+      {
+        "page": 5,
+        "category": "SALES",
+        "title": "2015年の販売台数は370台"
+      },
+      {
+        "page": 5,
+        "category": "MOTOR SPORT",
+        "title": "ピレリワールドチャレンジに参戦決定"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "2016年「Bentley Collection」を近日中にお届けします"
+      },
+      {
+        "page": 5,
+        "category": "AWARD",
+        "title": "2015年に18の賞に輝いたベントレー"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "レスポンシブ・オフロード・セティング"
       }
     ]
   }

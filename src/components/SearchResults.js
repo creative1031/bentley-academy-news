@@ -6,14 +6,15 @@ function SearchResults({ results, searchTerm }) {
 
   const filtering = useCallback(async () => {
     let filtered = []
-    results.map((result) => {
+
+    results.map((result) =>
       result.contents.map((content) => {
         if (content.title.includes(searchTerm) && !filtered.includes(result)) {
           filtered.push(result)
         }
         return filtered
       })
-    })
+    )
 
     setFilteredItems(filtered)
   }, [results, searchTerm])

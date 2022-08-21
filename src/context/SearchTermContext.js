@@ -6,6 +6,8 @@ const searchTermReducer = (state, action) => {
   switch (action.type) {
     case 'CHANGE_TERM':
       return { ...state, searchTerm: action.payload }
+    default:
+      return state
   }
 }
 
