@@ -18,10 +18,10 @@ export default function Header() {
         </Link>
         <nav className="flex justify-between w-full mt-5 md:mt-0 md: md:basis-2/5">
           <Link to="/archives" className="flex-1 mr-1">
-            <button className="btn btn-primary w-full">Archives</button>
+            <button className="btn btn-primary w-full">アーカイブ</button>
           </Link>
           <Link to="/" className="flex-1 ml-1">
-            <button className="btn btn-primary w-full">Latest</button>
+            <button className="btn btn-primary w-full">最新号</button>
           </Link>
         </nav>
       </div>

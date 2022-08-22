@@ -23,7 +23,7 @@ export default function SearchBar() {
           <form onSubmit={handleSubmit} className="input-group">
             <input
               type="text"
-              placeholder="Search…"
+              placeholder="キーワード検索"
               className="input input-bordered w-full text-base"
               onChange={(e) => setSearchTerm(e.target.value)}
               value={searchTerm}
