@@ -1,7 +1,9 @@
 import Loading from '../components/Loading'
 import { useFetch } from '../hooks/useFetch'
+
+// components
 import NewRelease from '../components/NewRelease'
-// import RelativeArticles from '../components/RelativeArticles'
+import ArticlesList from '../components/ArticlesList'
 
 export default function Home() {
   const url = 'data/bran-archives.json'
@@ -14,9 +16,9 @@ export default function Home() {
       {latestIssue && (
         <div className="flex flex-col justify-between py-10">
           <NewRelease latestIssue={latestIssue[0]} />
-          {/* <RelativeArticles /> */}
         </div>
       )}
+      <ArticlesList />
     </div>
   )
 }

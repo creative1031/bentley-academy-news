@@ -2,7 +2,7 @@ import { useFetch } from '../hooks/useFetch'
 import { useSearchContext } from '../hooks/useSearchContext'
 
 // components
-import SearchResults from '../components/SearchResults'
+import SearchResultsByKey from '../components/SearchResultsByKey'
 import Loading from '../components/Loading'
 
 export default function Search() {
@@ -17,7 +17,7 @@ export default function Search() {
       {isPending && <Loading />}
       {results && (
         <div className="flex flex-col justify-between py-10 xl:flex-row">
-          <SearchResults results={results} searchTerm={searchTerm} />
+          <SearchResultsByKey results={results} searchTerm={searchTerm} />
         </div>
       )}
     </div>

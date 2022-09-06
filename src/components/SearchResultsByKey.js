@@ -9,7 +9,10 @@ function SearchResults({ results, searchTerm }) {
 
     results.map((result) =>
       result.contents.map((content) => {
-        if (content.title.includes(searchTerm) && !filtered.includes(result)) {
+        if (
+          content.category.includes(searchTerm) &&
+          !filtered.includes(result)
+        ) {
           filtered.push(result)
         }
         return filtered
@@ -47,7 +50,7 @@ function SearchResults({ results, searchTerm }) {
                 </a>
                 <ul className="mt-3 lg:mt-0">
                   {result.contents
-                    .filter((content) => content.title.includes(searchTerm))
+                    .filter((content) => content.category.includes(searchTerm))
                     .map((filteredTitle, index) => (
                       <div key={index} className="flex items-start my-2">
                         <span className="text-xs bg-gray-400 px-2 py-1 rounded-sm mr-2 text-white">

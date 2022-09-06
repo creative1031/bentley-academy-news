@@ -1,12 +1,12 @@
-import { useState, useContext } from 'react'
+import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { SearchTermContext } from '../context/SearchTermContext'
+import { useSearchContext } from '../hooks/useSearchContext'
 
 export default function SearchBar() {
   const [searchTerm, setSearchTerm] = useState('')
   const navigate = useNavigate()
 
-  const { changeTerm } = useContext(SearchTermContext)
+  const { changeTerm } = useSearchContext()
 
   const handleSubmit = (e) => {
     e.preventDefault()
@@ -81,9 +81,6 @@ export default function SearchBar() {
             >
               Mulsanne
             </li>
-            {/* <li className="modelBtn" onClick={() => setSearchTerm('マリナー')}>
-              Mulliner
-            </li> */}
           </ul>
         </div>
       </div>

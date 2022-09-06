@@ -9,6 +9,7 @@ import SearchBar from './components/SearchBar'
 import Home from './pages/Home'
 import Archives from './pages/Archives'
 import Search from './pages/Search'
+import SearchByKey from './pages/SearchByKey'
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
               <Route path="/" element={<Home />} />
               <Route path="/archives" element={<Archives />} />
               <Route path="/search" element={<Search />} />
+              <Route path="/searchbykey" element={<SearchByKey />} />
             </Routes>
           </main>
           <Footer />
