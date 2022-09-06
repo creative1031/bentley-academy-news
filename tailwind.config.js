@@ -14,10 +14,6 @@ module.exports = {
         bentleyLight: ['Bentley-Light', 'Noto Sans JP', 'sans-serif'],
         bentleyRegular: ['Bentley-Regular', 'Noto Sans JP', 'sans-serif'],
       },
-      backgroundImage: {
-        beyond100: "url('../public/images/beyond100.jpg')",
-        knowledge: "url('../public/images/knowledge.jpg')",
-      },
     },
   },
   plugins: [require('daisyui')],
