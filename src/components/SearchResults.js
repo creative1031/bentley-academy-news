@@ -1,27 +1,9 @@
-import { useState, useEffect, useCallback } from 'react'
+// import { useState, useEffect, useCallback } from 'react'
 import PDFicon from '../assets/pdf-icon.svg'
+import { useFiltering } from '../hooks/useFiltering'
 
-function SearchResults({ results, searchTerm }) {
-  const [filteredItems, setFilteredItems] = useState([])
-
-  const filtering = useCallback(() => {
-    let filtered = []
-
-    results.map((result) =>
-      result.contents.map((content) => {
-        if (content.title.includes(searchTerm) && !filtered.includes(result)) {
-          filtered.push(result)
-        }
-        return filtered
-      })
-    )
-
-    setFilteredItems(filtered)
-  }, [results, searchTerm])
-
-  useEffect(() => {
-    filtering()
-  }, [filtering])
+function SearchResults({ results, searchTerm, target }) {
+  const { filteredItems } = useFiltering(results, searchTerm, target)
 
   if (filteredItems.length > 0) {
     return (
@@ -47,7 +29,11 @@ function SearchResults({ results, searchTerm }) {
                 </a>
                 <ul className="mt-3 lg:mt-0">
                   {result.contents
-                    .filter((content) => content.title.includes(searchTerm))
+                    .filter((content) =>
+                      target === 'title'
+                        ? content.title.includes(searchTerm)
+                        : content.category.includes(searchTerm)
+                    )
                     .map((filteredTitle, index) => (
                       <div key={index} className="flex items-start my-2">
                         <span className="text-xs bg-gray-400 px-2 py-1 rounded-sm mr-2 text-white">

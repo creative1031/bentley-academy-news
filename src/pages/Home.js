@@ -3,7 +3,7 @@ import { useFetch } from '../hooks/useFetch'
 
 // components
 import NewRelease from '../components/NewRelease'
-import ArticlesList from '../components/ArticlesList'
+import Pickup from '../components/Pickup'
 
 export default function Home() {
   const url = 'data/bran-archives.json'
@@ -18,7 +18,7 @@ export default function Home() {
           <NewRelease latestIssue={latestIssue[0]} />
         </div>
       )}
-      <ArticlesList />
+      <Pickup />
     </div>
   )
 }

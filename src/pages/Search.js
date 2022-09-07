@@ -6,7 +6,7 @@ import SearchResults from '../components/SearchResults'
 import Loading from '../components/Loading'
 
 export default function Search() {
-  const { searchTerm } = useSearchContext()
+  const { searchTerm, target } = useSearchContext()
 
   const url = 'data/bran-archives.json'
   const { data: results, isPending, error } = useFetch(url)
@@ -17,7 +17,11 @@ export default function Search() {
       {isPending && <Loading />}
       {results && (
         <div className="flex flex-col justify-between py-10 xl:flex-row">
-          <SearchResults results={results} searchTerm={searchTerm} />
+          <SearchResults
+            results={results}
+            searchTerm={searchTerm}
+            target={target}
+          />
         </div>
       )}
     </div>

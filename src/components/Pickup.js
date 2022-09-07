@@ -11,11 +11,11 @@ const articles = [
 ]
 
 export default function ArticlesList() {
-  const { changeTerm } = useSearchContext()
+  const { changeTarget } = useSearchContext()
   const navigate = useNavigate()
   const handleClick = (term) => {
-    changeTerm(term)
-    navigate('/searchbykey')
+    changeTarget(term)
+    navigate('/search')
   }
 
   return (
