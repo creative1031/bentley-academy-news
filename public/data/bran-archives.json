@@ -113,65 +113,6 @@
     ]
   },
   {
-    "issue": 130,
-    "year": 2022,
-    "month": 8,
-    "image": "/images/130.jpg",
-    "pdf": "/pdf/130.pdf",
-    "contents": [
-      {
-        "page": 1,
-        "category": "SALES",
-        "title": "2022年上半期決算で大幅な増収増益 Beyond 100戦略などが奏功し過去最高を更新"
-      },
-      {
-        "page": 2,
-        "category": "COMPETITOR INFORMATION",
-        "title": "第4世代のプラグインハイブリッド メルセデス・ベンツ S 580 e 4MATIC ロング"
-      },
-      {
-        "page": 3,
-        "category": "COMPETITOR INFORMATION",
-        "title": "各社から発表されたハイパーカー"
-      },
-      {
-        "page": 3,
-        "category": "EVENT",
-        "title": "創業103年にちなみ103台が集結 モントレー カーウイーク"
-      },
-      {
-        "page": 4,
-        "category": "MULLINER",
-        "title": "マリナー バトゥール発表 ベントレーのデザインに革命"
-      },
-      {
-        "page": 5,
-        "category": "BEYOND 100",
-        "title": "ザ・マッカランとの最初のコラボ製品を発表"
-      },
-      {
-        "page": 5,
-        "category": "EVENT",
-        "title": "ル・マン100周年を記念してラグナセカをパレードラン"
-      },
-      {
-        "page": 5,
-        "category": "BEYOND 100",
-        "title": "ベントレーが廃棄物管理の一環としてプラスチックの排出削減に向けた認定を取得"
-      },
-      {
-        "page": 5,
-        "category": "CHARITY",
-        "title": "がん研究支援のチャリティーを実施 マリナーがセイガー氏の衣装を模したGTCを製造"
-      },
-      {
-        "page": 6,
-        "category": "PRODUCT KNOWLEDGE",
-        "title": "クルマのサプライチェーンとは何か"
-      }
-    ]
-  },
-  {
     "issue": 129,
     "year": 2022,
     "month": 7,
