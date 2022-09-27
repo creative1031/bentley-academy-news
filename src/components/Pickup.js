@@ -8,6 +8,21 @@ const articles = [
     src: 'knowledge',
     term: 'PRODUCT KNOWLEDGE',
   },
+  {
+    title: 'マリナー',
+    src: 'mulliner',
+    term: 'MULLINER',
+  },
+  {
+    title: 'ベントレーの歴史',
+    src: 'heritage',
+    term: 'HERITAGE',
+  },
+  {
+    title: '環境',
+    src: 'environment',
+    term: 'ENVIRONMENT',
+  },
 ]
 
 export default function ArticlesList() {

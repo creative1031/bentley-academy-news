@@ -31,7 +31,5 @@ export const useFiltering = (data, term, target) => {
     setFilteredItems(filtered)
   }, [data, term, target])
 
-  console.log(filteredItems)
-
   return { filteredItems }
 }
