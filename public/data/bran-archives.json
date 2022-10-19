@@ -1,5 +1,59 @@
 [
   {
+    "issue": 132,
+    "year": 2022,
+    "month": 10,
+    "image": "/images/132.jpg",
+    "pdf": "/pdf/132.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "PRODUCTS",
+        "title": "ベンテイガ SとAzureにハイブリッド モデルを追加"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "新たなEVのフラッグシップモデル メルセデス・ベンツ EQS"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "メルセデス・ベンツ EQSとEQEの違いとは？"
+      },
+      {
+        "page": 3,
+        "category": "ACADEMY",
+        "title": "リテーラー アカデミーニュースのアーカイブサイトをリニューアル"
+      },
+      {
+        "page": 4,
+        "category": "HERITAGE",
+        "title": "エポックメイキングなベントレー ＜戦後編＞"
+      },
+      {
+        "page": 5,
+        "category": "MULLINER",
+        "title": "マリナーがビバリーヒルズ向けに パステルカラーのGTCを製作"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "100 年以上の歴史を称える ヘリテージガレージがオープン"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "優秀な人材の採用に向けた研修生の募集を開始"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "EV活性化 カタログスペックの読み方"
+      }
+    ]
+  },
+  {
     "issue": 131,
     "year": 2022,
     "month": 9,
