@@ -12,6 +12,7 @@ export default function ArchiveList({ archives }) {
                   src={archive.image}
                   alt={archive.issue}
                   className="border border-gray-400 cursor-pointer mb-2 loading-image"
+                  loading="lazy"
                 />
                 <p className="text-center mx-auto text-sm text-gray-600 font-light">
                   <span>No.{archive.issue} - </span>
