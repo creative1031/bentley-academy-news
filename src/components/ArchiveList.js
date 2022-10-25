@@ -1,6 +1,11 @@
 import PDFicon from '../assets/pdf-icon.svg'
+import {
+  LazyLoadImage,
+  trackWindowScroll,
+} from 'react-lazy-load-image-component'
+import './blur.css'
 
-export default function ArchiveList({ archives }) {
+function ArchiveList({ archives, scrollPosition }) {
   return (
     <div className="py-10">
       <ul className="grid grid-cols-2 gap-5 sm:grid-cols-3 md:grid-cols-3 md:gap-10 lg:grid-cols-4 xl:grid-cols-5">
@@ -8,11 +13,12 @@ export default function ArchiveList({ archives }) {
           <div key={archive.issue}>
             <li className="mb-3">
               <label htmlFor={archive.issue}>
-                <img
+                <LazyLoadImage
                   src={archive.image}
                   alt={archive.issue}
                   className="border border-gray-400 cursor-pointer mb-2 loading-image"
-                  loading="lazy"
+                  scrollPosition={scrollPosition}
+                  effect="blur"
                 />
                 <p className="text-center mx-auto text-sm text-gray-600 font-light">
                   <span>No.{archive.issue} - </span>
@@ -79,3 +85,5 @@ export default function ArchiveList({ archives }) {
     </div>
   )
 }
+
+export default trackWindowScroll(ArchiveList)

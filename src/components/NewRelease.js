@@ -1,4 +1,6 @@
 import PDFicon from '../assets/pdf-icon.svg'
+import { LazyLoadImage } from 'react-lazy-load-image-component'
+import './blur.css'
 
 export default function NewRelease({ latestIssue }) {
   return (
@@ -9,10 +11,11 @@ export default function NewRelease({ latestIssue }) {
         rel="noopener noreferrer"
         className="lg:mr-10"
       >
-        <img
+        <LazyLoadImage
           src={latestIssue.image}
           alt={latestIssue.issue}
           className="mx-auto w-4/5 border border-gray-400 md:w-96"
+          effect="blur"
         />
       </a>
       <div className="pt-8">
