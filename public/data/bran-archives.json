@@ -1,5 +1,59 @@
 [
   {
+    "issue": 133,
+    "year": 2022,
+    "month": 11,
+    "image": "/images/133.jpg",
+    "pdf": "/pdf/133.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "SALES",
+        "title": "2022年第三四半期決算で過去最高を記録 営業利益は2021年通年実績を上回る"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "フェラーリ初の4ドアSUV フェラーリ・プロサングエ"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ブランドストーリー　Ferrari 2+2 model"
+      },
+      {
+        "page": 3,
+        "category": "MULLINER",
+        "title": "ヨット業界の最高峰を祝福するGTCの限定車リビエラ コレクションを発表"
+      },
+      {
+        "page": 4,
+        "category": "PRODUCTS",
+        "title": "完成したモデルラインアップ　位置づけや選択可能なパワートレインは？"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "最もサステナブルなベンテイガ　オデッシアン エディション発表"
+      },
+      {
+        "page": 5,
+        "category": "FACTORY",
+        "title": "ベンテイガ EWBの生産開始 型式認証の取得など終え準備整う"
+      },
+      {
+        "page": 5,
+        "category": "MULLINER",
+        "title": "フレックスジェット×マリナー ラグジュアリーな航空機を製造"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "スタッドレスタイヤが滑らない訳"
+      }
+    ]
+  },
+  {
     "issue": 132,
     "year": 2022,
     "month": 10,
