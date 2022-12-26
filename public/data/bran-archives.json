@@ -1,5 +1,54 @@
 [
   {
+    "issue": 134,
+    "year": 2022,
+    "month": 12,
+    "image": "/images/134.jpg",
+    "pdf": "/pdf/134.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "TOPICS",
+        "title": "ニュースで振り返るベントレー モーターズの2022年"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ロールス・ロイス初の完全電動モデル ロールス・ロイス スペクター"
+      },
+      {
+        "page": 4,
+        "category": "EVENT",
+        "title": "8年ぶりにGBラリー開催 新旧の英国車が東京・箱根などを疾走"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "Flying Beeプロジェクトで過去最高のハチミツの収穫量を記録"
+      },
+      {
+        "page": 5,
+        "category": "COLLABORATION",
+        "title": "北青山に期間限定ポップアップショールーム ベントレー×アニモカブランズがコラボ"
+      },
+      {
+        "page": 5,
+        "category": "MULLINER",
+        "title": "究極のグランドツアラー「バトゥール」のテスト走行を開始"
+      },
+      {
+        "page": 5,
+        "category": "AWARDS",
+        "title": "ベンテイガ EWBが特別賞を受賞 フランスのオートモービル賞・コンフォート部門"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "チャデモ（CHAdeMO）とは何か？"
+      }
+    ]
+  },
+  {
     "issue": 133,
     "year": 2022,
     "month": 11,
