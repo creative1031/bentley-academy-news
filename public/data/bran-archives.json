@@ -1,5 +1,64 @@
 [
   {
+    "issue": 135,
+    "year": 2023,
+    "month": 1,
+    "image": "/images/135.jpg",
+    "pdf": "/pdf/135.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "SALES",
+        "title": "2022年の販売台数は過去最高を記録 日本では8.1％増の644台"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "メルセデスAMG専用モデルとなったロードスター メルセデスAMG SL"
+      },
+      {
+        "page": 3,
+        "category": "BRAND STORY",
+        "title": "ブランドストーリー Mercedes-Benz SL"
+      },
+      {
+        "page": 3,
+        "category": "MULLINER",
+        "title": "3Dプリンターによる画期的な製造プロセス バトゥール、ゴールドのディテール"
+      },
+      {
+        "page": 4,
+        "category": "MULLINER",
+        "title": "マリナーが打ち立てた新たな金字塔 2022年に500 件以上のビスポークを手掛ける"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "GT Speedとバカラルの1:43スケールモデルカーが登場"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "ベントレーがコミュニティ支援を継続"
+      },
+      {
+        "page": 5,
+        "category": "PEOPLE",
+        "title": "マリナー＆モータースポーツ責任者にアンサール・アリ氏が就任"
+      },
+      {
+        "page": 5,
+        "category": "COLLABORATION",
+        "title": "Bomber for ベントレーの新作が登場「ICEエディション」のスキーやポールなど"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "カーボンファイバー（CFRP）の基本"
+      }
+    ]
+  },
+  {
     "issue": 134,
     "year": 2022,
     "month": 12,
