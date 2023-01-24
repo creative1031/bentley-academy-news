@@ -4,6 +4,7 @@ import { useFetch } from '../hooks/useFetch'
 // components
 import NewRelease from '../components/NewRelease'
 import Pickup from '../components/Pickup'
+import Banner from '../components/Banner'
 
 export default function Home() {
   const url = 'data/bran-archives.json'
@@ -11,6 +12,7 @@ export default function Home() {
 
   return (
     <div>
+      <Banner />
       {error && <p className="text-error text-center">{error}</p>}
       {isPending && <Loading />}
       {latestIssue && (

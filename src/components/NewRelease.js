@@ -14,7 +14,7 @@ export default function NewRelease({ latestIssue }) {
         <LazyLoadImage
           src={latestIssue.image}
           alt={latestIssue.issue}
-          className="mx-auto w-4/5 border border-gray-400 md:w-96"
+          className="mx-auto w-4/5 border border-gray-400 md:w-3/5 lg:w-96"
           effect="blur"
         />
       </a>

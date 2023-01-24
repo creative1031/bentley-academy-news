@@ -59,6 +59,55 @@
     ]
   },
   {
+    "issue": "135-特別号",
+    "year": 2023,
+    "month": 1,
+    "image": "/images/135-2.jpg",
+    "pdf": "/pdf/135-2.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "DERIVATIVE STRATEGY",
+        "title": "新デリバティブ戦略の正確な理解のために"
+      },
+      {
+        "page": 2,
+        "category": "MARKETING",
+        "title": "新デリバティブ戦略でターゲットとする顧客セグメント"
+      },
+      {
+        "page": 3,
+        "category": "MODEL DERIVATIVE",
+        "title": "各グレードの特徴"
+      },
+      {
+        "page": 4,
+        "category": "AZURE",
+        "title": "Azureの特徴"
+      },
+      {
+        "page": 5,
+        "category": "S",
+        "title": "Sの特徴"
+      },
+      {
+        "page": 6,
+        "category": "SPEED",
+        "title": "Speedの特徴"
+      },
+      {
+        "page": 7,
+        "category": "MULLINER",
+        "title": "Mullinerの特徴"
+      },
+      {
+        "page": 8,
+        "category": "LINEUP",
+        "title": "デリバティブ戦略対応 モデルラインアップ早見表"
+      }
+    ]
+  },
+  {
     "issue": 134,
     "year": 2022,
     "month": 12,
