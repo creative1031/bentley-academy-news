@@ -1,5 +1,59 @@
 [
   {
+    "issue": 136,
+    "year": 2023,
+    "month": 2,
+    "image": "/images/136.jpg",
+    "pdf": "/pdf/136.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "MULLINER",
+        "title": "R-Typeコンチネンタル誕生70周年 マリナー、オマージュのGT Azureを製造"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "BMW Xモデル初のM専用モデル BMW XM"
+      },
+      {
+        "page": 3,
+        "category": "BEYOND 100",
+        "title": "ベントレーが12年連続でトップエンプロイヤーに"
+      },
+      {
+        "page": 4,
+        "category": "MULLINER",
+        "title": "マリナーがバサースト12時間の勝利を記念したコンチネンタルGT Sを製造"
+      },
+      {
+        "page": 5,
+        "category": "AWARDS",
+        "title": "コンチネンタルGT SがRobb ReportのCOTYを受賞"
+      },
+      {
+        "page": 5,
+        "category": "CHARITY",
+        "title": "ビスポークのベンテイガ EWBをチャリティオークションに出品"
+      },
+      {
+        "page": 5,
+        "category": "PEOPLE",
+        "title": "新デザイン ディレクターにトビアス・シュールマンが就任"
+      },
+      {
+        "page": 5,
+        "category": "TECHNOLOGY",
+        "title": "ベンテイガ EWBをARアプリで再現 選んだ場所でのドライブ体験も提供"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "ホイールの基礎知識"
+      }
+    ]
+  },
+  {
     "issue": 135,
     "year": 2023,
     "month": 1,
