@@ -1,5 +1,64 @@
 [
   {
+    "issue": 137,
+    "year": 2023,
+    "month": 3,
+    "image": "/images/137.jpg",
+    "pdf": "/pdf/137.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "PRODUCTS",
+        "title": "W12エンジン、20年の歴史に幕"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ICEとBEVの二刀流GT マセラティ・グラントゥーリズモ"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ブランドストーリー マセラティ・グラントゥーリズモ"
+      },
+      {
+        "page": 3,
+        "category": "BEYOND 100",
+        "title": "クルー本社に最先端施設を建設 BEV生産に向け3,500万ポンドを投資"
+      },
+      {
+        "page": 4,
+        "category": "NEW MODEL",
+        "title": "ベンテイガ EWB Azure First Editionの特徴"
+      },
+      {
+        "page": 5,
+        "category": "AWARDS",
+        "title": "コンチネンタルGT SがRobb ReportのCOTYを受賞"
+      },
+      {
+        "page": 5,
+        "category": "PEOPLE",
+        "title": "サステナビリティ コミュニケーション責任者にステファニー・ラックナーが就任"
+      },
+      {
+        "page": 5,
+        "category": "COLLABORATION",
+        "title": "英国で最もラグジュアリーなライブハウス ベントレー レコードルームを発表"
+      },
+      {
+        "page": 5,
+        "category": "COLLABORATION",
+        "title": "ベントレーがDEZEEN AWARDSのスポンサーに 世界中の優れたデザインを支援"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "進化するADASの最新事情"
+      }
+    ]
+  },
+  {
     "issue": 136,
     "year": 2023,
     "month": 2,
