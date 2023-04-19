@@ -1,5 +1,64 @@
 [
   {
+    "issue": 138,
+    "year": 2023,
+    "month": 4,
+    "image": "/images/138.jpg",
+    "pdf": "/pdf/138.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "NEW MODEL",
+        "title": "ベンテイガ EWBの日本導入を正式発表 プレス向けお披露目パーティ＆特別展示イベント開催"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "エレガントなソフトトップに回帰 フェラーリ・ローマ スパイダー"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ブランドストーリー Ferrari Open Air Variety"
+      },
+      {
+        "page": 3,
+        "category": "FINANCE",
+        "title": "2022年決算で過去最高を記録 台数は4％増ながら営業利益は82％増"
+      },
+      {
+        "page": 4,
+        "category": "MOTOR SPORT",
+        "title": "ブロワーが再びレースの舞台へ 英国、フランス、ベルギーで3戦"
+      },
+      {
+        "page": 5,
+        "category": "AWARDS",
+        "title": "ベントレーが英国の最も称賛される自動車メーカーに選出"
+      },
+      {
+        "page": 5,
+        "category": "EXPERIENCE",
+        "title": "エクストラオーディナリー ジャーニー発表 厳選された特別な旅行体験を提供"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "ダイバーシティ＆インクルージョンが組織改編の一環で事業の中核に"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "グローバル エクストラオーディナリー ウィメン プログラムを開始"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "モーターの基礎知識"
+      }
+    ]
+  },
+  {
     "issue": 137,
     "year": 2023,
     "month": 3,
