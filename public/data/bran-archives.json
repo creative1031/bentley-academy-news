@@ -1,5 +1,64 @@
 [
   {
+    "issue": 139,
+    "year": 2023,
+    "month": 5,
+    "image": "/images/139.jpg",
+    "pdf": "/pdf/139.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "MULLINER",
+        "title": "マリナーが新作を続々と発表 GTデビュー20周年やル・マンの勝利を記念した特別仕様車"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "V12＋PHEVの新世代スーパースポーツ ランボルギーニ・レヴエルト"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ブランドストーリー ランボルギーニ スーパースポーツ"
+      },
+      {
+        "page": 3,
+        "category": "SALES",
+        "title": "2023年第1四半期も好調な業績を維持 営業利益は前年同期比27％増"
+      },
+      {
+        "page": 4,
+        "category": "PRODUCTS",
+        "title": "GT/GTC、フライングスパー 24MYの特徴 新モチーフなどでデリバティブを明確化"
+      },
+      {
+        "page": 5,
+        "category": "SHOWROOM",
+        "title": "ベントレー東京が芝に東日本最大のショールームをリニューアルオープン"
+      },
+      {
+        "page": 5,
+        "category": "CRAFTSMANSHIP",
+        "title": "チャールズ国王の戴冠式を記念しキャビンクッションを製造"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "米国のディーラー全店舗でカーボンニュートラル認証を取得"
+      },
+      {
+        "page": 5,
+        "category": "COLLABORATION",
+        "title": "ベントレーがグッドウッドで開催される犬の祭典で特別な自動車パートナーに"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "カーエアコンの基礎知識"
+      }
+    ]
+  },
+  {
     "issue": 138,
     "year": 2023,
     "month": 4,
