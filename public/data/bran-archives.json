@@ -1,5 +1,54 @@
 [
   {
+    "issue": 140,
+    "year": 2023,
+    "month": 6,
+    "image": "/images/140.jpg",
+    "pdf": "/pdf/140.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "PRODUCTS",
+        "title": "新製品情報 ペイント プロテクション フィルム＆24MYの新色"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "製品内容を大幅アップグレード ポルシェ カイエン"
+      },
+      {
+        "page": 3,
+        "category": "MULLINER",
+        "title": "マリナーのパーソナライゼーションの奥深さを示すバトゥール"
+      },
+      {
+        "page": 4,
+        "category": "LIMITED EDITION",
+        "title": "W12エンジンのデビュー20周年を記念 特別仕様車「Edition 12」の特徴"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "ベントレーが取り組むサステナビリティ"
+      },
+      {
+        "page": 5,
+        "category": "PEOPLE",
+        "title": "デザイン部門のディレクターにロビン・ペイジが就任"
+      },
+      {
+        "page": 5,
+        "category": "EVENT",
+        "title": "GOODWOOFでベンテイガ Sの特別ラッピングモデルを披露"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "インバーターの働きと仕組み"
+      }
+    ]
+  },
+  {
     "issue": 139,
     "year": 2023,
     "month": 5,
