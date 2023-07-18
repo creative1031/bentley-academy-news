@@ -1,5 +1,64 @@
 [
   {
+    "issue": 141,
+    "year": 2023,
+    "month": 7,
+    "image": "/images/141.jpg",
+    "pdf": "/pdf/141.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "BRAND",
+        "title": "ブランドスペースの新しいシグネチャーデザインを発表 ひと目でベントレーとわかる持続可能な舞台"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "正常進化したスーパーツアラー アストンマーティン DB12"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "BRAND STORY 110 Years of ASTON MARTIN"
+      },
+      {
+        "page": 3,
+        "category": "MULLINER",
+        "title": "バトゥールの開発プログラムが全過程を終了 厳格なテストをパスし最高水準を保証"
+      },
+      {
+        "page": 4,
+        "category": "HISTORY",
+        "title": "ル・マン クラシックで限定モデルを欧州初公開 6台の歴史的名車も展示"
+      },
+      {
+        "page": 5,
+        "category": "AWARDS",
+        "title": "コンチネンタルGT Sが『Robb Report』誌のベスト グランドツアラー賞を受賞"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "ベントレー コレクションの新作が続々 ファッションアイテムからゴルフ用品まで"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "クルーの太陽光発電10周年 新たに次世代型ソーラーパネル設置"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "ベントレー環境財団を設立 世界的な環境問題の解決を支援"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "PHEVの基礎知識 200V40A普通充電の理由"
+      }
+    ]
+  },
+  {
     "issue": 140,
     "year": 2023,
     "month": 6,
