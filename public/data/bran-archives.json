@@ -1,5 +1,59 @@
 [
   {
+    "issue": 142,
+    "year": 2023,
+    "month": 8,
+    "image": "/images/142.jpg",
+    "pdf": "/pdf/142.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "SALES",
+        "title": "ベントレーの2023年上半期決算 売上、営業利益ともに微減もAPACは健闘"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "メルセデスの電動ラグジュアリーSUV メルセデス・ベンツ EQS SUV"
+      },
+      {
+        "page": 3,
+        "category": "PRODUCTS",
+        "title": "ベントレーがオリーブタンレザーを開発 24MYのベンテイガから採用"
+      },
+      {
+        "page": 4,
+        "category": "EVENT",
+        "title": "グッドウッドでベントレーが存在感を示す ヒルクライムや”新車”のSpeed Six披露で"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "バイオ燃料タンクをクルーに設置 FoSで互換品としての性能を証明"
+      },
+      {
+        "page": 5,
+        "category": "PEOPLE",
+        "title": "マニュファクチュアリング担当取締役にアンドレアス・リーヘ氏が就任"
+      },
+      {
+        "page": 5,
+        "category": "COMMUNITY",
+        "title": "英国コミュニティへの新投資戦略 ベントレーが150件以上の助成金を寄付"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "エクストラオーディナリー ウーマン クルー本社でメンタープログラム実施"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "世界の先進運転支援システムの最新機能いろいろ"
+      }
+    ]
+  },
+  {
     "issue": 141,
     "year": 2023,
     "month": 7,
