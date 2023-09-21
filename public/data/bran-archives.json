@@ -1,5 +1,59 @@
 [
   {
+    "issue": 143,
+    "year": 2023,
+    "month": 9,
+    "image": "/images/143.jpg",
+    "pdf": "/pdf/143.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "MULLINER",
+        "title": "初代コンチネンタルGTのオマージュ マリナーの最新作としてモントレーで発表"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "正常進化を遂げたピュアスーパーカー マクラーレン750S"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ブランドストーリー 60 YEARS OF McLaren"
+      },
+      {
+        "page": 3,
+        "category": "HERITAGE",
+        "title": "名車「ブロワー」が85％サイズのEVに 究極のシティカーとして復活"
+      },
+      {
+        "page": 4,
+        "category": "PRODUCTS",
+        "title": "デリバティブの頂点に君臨するベンテイガ EWB Mulliner登場"
+      },
+      {
+        "page": 5,
+        "category": "OPTION",
+        "title": "車載オーディオの新たなベンチマーク Naim for Mulliner"
+      },
+      {
+        "page": 5,
+        "category": "EXPERIENCE",
+        "title": "クルーでリアルとデジタルを融合させた新パーソナライズド カスタマーツアー開始"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "マンチェスター・プライドで特別仕様のGTCがパレードに参加"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "直噴（DI）とポート噴射（PFI）"
+      }
+    ]
+  },
+  {
     "issue": 142,
     "year": 2023,
     "month": 8,
