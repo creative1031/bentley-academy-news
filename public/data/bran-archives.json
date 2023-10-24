@@ -1,5 +1,54 @@
 [
   {
+    "issue": 144,
+    "year": 2023,
+    "month": 10,
+    "image": "/images/144.jpg",
+    "pdf": "/pdf/144.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "PRODUCTS",
+        "title": "24MYのベンテイガ シリーズ 新デリバティブ追加など魅力アップ"
+      },
+      {
+        "page": 2,
+        "category": "PRODUCTS",
+        "title": "24MY ベンテイガ シリーズの特徴"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ハイブリッドモデルを3モデルに拡大 ポルシェ カイエンターボE-ハイブリッド"
+      },
+      {
+        "page": 4,
+        "category": "HERITAGE",
+        "title": "3 1/2リッター「サイレント スポーツカー」の誕生90周年を祝福"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "インクルージョンを表現したベンテイガ 建築画家スティーブン・ウィルシャー氏がペイント"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "ベントレー環境財団が新たなパートナー2団体を発表"
+      },
+      {
+        "page": 5,
+        "category": "COMPANY",
+        "title": "2024年度の研修生募集人数は過去最多の164人に"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "J-NCAPは何をテストするのか？"
+      }
+    ]
+  },
+  {
     "issue": 143,
     "year": 2023,
     "month": 9,
