@@ -1,5 +1,54 @@
 [
   {
+    "issue": 145,
+    "year": 2023,
+    "month": 11,
+    "image": "/images/145.jpg",
+    "pdf": "/pdf/145.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "MULLINER",
+        "title": "欧州でマリナーが新作を続々と発表 販売会社の100周年記念やGTの最終モデルで"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ロータス初のエレクトリックSUV ロータス エレトレ"
+      },
+      {
+        "page": 3,
+        "category": "OPTION",
+        "title": "ペイントプロテクションフィルム 施工実績が2,000台を突破"
+      },
+      {
+        "page": 4,
+        "category": "PRODUCTS",
+        "title": "コンチネンタルGT & GTCとフライングスパーの「A」デリバティブの特徴"
+      },
+      {
+        "page": 5,
+        "category": "COLLECTION",
+        "title": "ベントレー コレクションの新作 ベントレー ベアからアクセサリーまで多数"
+      },
+      {
+        "page": 5,
+        "category": "COLLABORATION",
+        "title": "ベントレーが新型クルーザーの特注インテリアを製作"
+      },
+      {
+        "page": 5,
+        "category": "COLLABORATION",
+        "title": "コンチネンタルGT誕生20周年を記念しドライビンググローブを製作"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "EVのリチウムイオン電池が燃えるとどうなる？"
+      }
+    ]
+  },
+  {
     "issue": 144,
     "year": 2023,
     "month": 10,
