@@ -1,5 +1,59 @@
 [
   {
+    "issue": 146,
+    "year": 2023,
+    "month": 12,
+    "image": "/images/146.jpg",
+    "pdf": "/pdf/146.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "MULLINER",
+        "title": "マリナーの世界（歴史）"
+      },
+      {
+        "page": 2,
+        "category": "MULLINER",
+        "title": "マリナーの世界（4分野の概要）"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ショーファードリブンMPVの最高峰 レクサス LM"
+      },
+      {
+        "page": 4,
+        "category": "PRODUCTS",
+        "title": "コンチネンタルGT誕生20周年記念の世界1周バトンリレーが終了"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "ミュルザンヌ最終モデルがヘリテージコレクションに"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "プラスチック廃棄物排出ゼロ 2年連続で認定を取得"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "フライング ビーのプレミアムハニーを収穫"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "クルーの緊急時対応車両として初めてBEVを導入"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "モーターの種類と特性"
+      }
+    ]
+  },
+  {
     "issue": 145,
     "year": 2023,
     "month": 11,
