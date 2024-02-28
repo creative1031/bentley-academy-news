@@ -1,5 +1,49 @@
 [
   {
+    "issue": 147,
+    "year": 2024,
+    "month": 2,
+    "image": "/images/147.jpg",
+    "pdf": "/pdf/147.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "SALES",
+        "title": "2023年の販売台数は過去3番目の13,560台 日本は前年実績を12％も上回る719台"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ショーファー需要に注目 競合ブランドのSUV事情"
+      },
+      {
+        "page": 3,
+        "category": "HERITAGE",
+        "title": "ベントレー名車図鑑：初代コンチネンタルGT 新たなセグメントの開拓者"
+      },
+      {
+        "page": 4,
+        "category": "PRODUCTS",
+        "title": "ベンテイガ シリーズ 24MYの特徴"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "ミュルザンヌ最終モデルがヘリテージコレクションに"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "Beyond 100戦略を知る ～概要：電動化の未来に向けたロードマップ～"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "ツインとツインスクロールはどう違う"
+      }
+    ]
+  },
+  {
     "issue": 146,
     "year": 2023,
     "month": 12,
