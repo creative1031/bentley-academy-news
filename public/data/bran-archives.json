@@ -1,5 +1,49 @@
 [
   {
+    "issue": 148,
+    "year": 2024,
+    "month": 4,
+    "image": "/images/148.jpg",
+    "pdf": "/pdf/148.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "MULLINER",
+        "title": "無限の可能性が広がるビスポークの世界 続々と発表されるマリナーの新作"
+      },
+      {
+        "page": 2,
+        "category": "COMPETITOR INFORMATION",
+        "title": "電動化により進化を遂げたオフローダー メルセデス・ベンツ Gクラス"
+      },
+      {
+        "page": 3,
+        "category": "PRODUCTS",
+        "title": "バトゥールに光の彫刻を デジタルパーソナライゼーションの第一歩"
+      },
+      {
+        "page": 4,
+        "category": "BEYOND 100",
+        "title": "アースデイ2024 ベントレーの環境対策"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "ベントレー名車図鑑：R-Type コンチネンタル 現代のベントレーのデザインの源流"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "Beyond 100戦略を知る ～ファイブ・イン・ファイブ計画～"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "WLTCモードの内容"
+      }
+    ]
+  },
+  {
     "issue": 147,
     "year": 2024,
     "month": 2,
