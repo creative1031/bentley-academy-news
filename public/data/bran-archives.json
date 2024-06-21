@@ -1,5 +1,59 @@
 [
   {
+    "issue": 149,
+    "year": 2024,
+    "month": 6,
+    "image": "/images/149.jpg",
+    "pdf": "/pdf/149.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "HERITAGE",
+        "title": "ベントレー伝統のモチーフ エクステリア編"
+      },
+      {
+        "page": 2,
+        "category": "HERITAGE",
+        "title": "ベントレー伝統のモチーフ インテリア編"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "自然吸気V12気筒を踏襲したフラッグシップ フェラーリ 12チリンドリ"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "新たにハイブリッド車を追加 新型ポルシェ 911"
+      },
+      {
+        "page": 4,
+        "category": "COMPETITOR INFORMATION",
+        "title": "メルセデス AMG独自開発モデルが2代目に進化 メルセデス AMG GT クーペ"
+      },
+      {
+        "page": 4,
+        "category": "PRODUCTS",
+        "title": "W12エンジンの魂は次世代パワートレインへ"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "ベントレー名車図鑑：ミュルザンヌ 2010年代のベントレーを支えたフラッグシップモデル"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "Beyond 100戦略を知る ～ドリームファクトリー構想～"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "オールシーズンタイヤの特徴"
+      }
+    ]
+  },
+  {
     "issue": 148,
     "year": 2024,
     "month": 4,
