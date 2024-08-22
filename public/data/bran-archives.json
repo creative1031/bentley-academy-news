@@ -1,5 +1,49 @@
 [
   {
+    "issue": 150,
+    "year": 2024,
+    "month": 8,
+    "image": "/images/150.jpg",
+    "pdf": "/pdf/150.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "MOTORSPORTS",
+        "title": "ベントレーとモータースポーツ ブランドを形成してきた不可分の要素"
+      },
+      {
+        "page": 2,
+        "category": "MOTORSPORTS",
+        "title": "ベントレーとモータースポーツ 21世紀の躍動"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "コンチネンタルGTスピードと競合するラグジュアリークーペ"
+      },
+      {
+        "page": 4,
+        "category": "AWARDSN",
+        "title": "『Robb Report』でベントレーが2冠 フライングスパーとバトゥールに高い評価"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "ベントレー名車図鑑：EXP 2（3 Litre） すべてはこの1台から始まった"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "Beyond 100戦略を知る ～ベントレーのダイバーシティ～"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "エアスプリングとダンパーの仕組み"
+      }
+    ]
+  },
+  {
     "issue": 149,
     "year": 2024,
     "month": 6,
