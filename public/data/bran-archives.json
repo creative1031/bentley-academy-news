@@ -1,5 +1,54 @@
 [
   {
+    "issue": 151,
+    "year": 2024,
+    "month": 10,
+    "image": "/images/151.jpg",
+    "pdf": "/pdf/151.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "HERITAGE",
+        "title": "名車を蘇らせるベントレーのレストア技術 現存する最古のTシリーズがほぼ出荷当時の姿で復活"
+      },
+      {
+        "page": 2,
+        "category": "HERITAGE",
+        "title": "名車を蘇らせるベントレーのレストア技術 ベントレーの歴史がすべて詰まったヘリテージコレクション"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "復活したFRスポーツカーのフラッグシップ アストンマーティン・ヴァンキッシュ"
+      },
+      {
+        "page": 4,
+        "category": "COMPETITOR INFORMATION",
+        "title": "ハイブリッド化されたウラカンの後継車 ランボルギーニ テメラリオ"
+      },
+      {
+        "page": 4,
+        "category": "COLLECTION",
+        "title": "新型GT・GTCをイメージしたバッグ登場 車両のデザインDNAからインスピレーション"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "ベントレー名車図鑑：アルナージ 変革期を支えたラグジュアリーセダンの頂点"
+      },
+      {
+        "page": 5,
+        "category": "BEYOND 100",
+        "title": "Beyond 100戦略を知る ～クルー本社周辺での環境保護～"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "装着が義務付けられた車両の機能・装備"
+      }
+    ]
+  },
+  {
     "issue": 150,
     "year": 2024,
     "month": 8,
