@@ -1,5 +1,49 @@
 [
   {
+    "issue": 152,
+    "year": 2024,
+    "month": 12,
+    "image": "/images/152.jpg",
+    "pdf": "/pdf/152.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "BEYOND 100",
+        "title": "「Beyond 100＋」戦略を発表 未来を見据えた新戦略の骨子とは"
+      },
+      {
+        "page": 2,
+        "category": "PRODUCTS",
+        "title": "新型GT・GTC・フライングスパー マリナーの特徴"
+      },
+      {
+        "page": 3,
+        "category": "COMPETITOR INFORMATION",
+        "title": "競合ブランドの最新事情"
+      },
+      {
+        "page": 4,
+        "category": "AWARDS",
+        "title": "新型コンチネンタルGT スピードが『Newsweek』誌の名誉ある賞に輝く"
+      },
+      {
+        "page": 5,
+        "category": "HERITAGE",
+        "title": "ベントレー名車図鑑：スピード シックス 最も成功したレーシング ベントレー"
+      },
+      {
+        "page": 5,
+        "category": "EVENT",
+        "title": "MAGARIGAWAでリテーラーカンファレンス＆試乗会を開催"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "トランスミッションそれぞれの長所・短所"
+      }
+    ]
+  },
+  {
     "issue": 151,
     "year": 2024,
     "month": 10,
