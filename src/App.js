@@ -38,7 +38,7 @@ function App() {
           alt="bentley logo"
         />
         <h1 className="font-bentleyLight text-2xl mb-5 text-gray-500">
-          RETAILOR ACADEMY NEWS
+          RETAILER ACADEMY NEWS
         </h1>
         <form onSubmit={submitHandler} className="w-80">
           <label className="form-control w-full max-w-lg">
