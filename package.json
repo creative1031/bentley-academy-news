@@ -13,13 +13,15 @@
     "react-lazy-load-image-component": "^1.5.5",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "pagecrypt": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "...",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "postbuild": "pagecrypt index.html encrypted.html bran2025"
   },
   "eslintConfig": {
     "extends": [
@@ -41,6 +43,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.8",
+    "pagecrypt": "^6.1.1",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
   }
