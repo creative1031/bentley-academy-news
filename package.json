@@ -19,7 +19,8 @@
     "start": "react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build": "pagecrypt index.html build/index.html bran2025"
+    "build": "...",
+    "postbuild": "pagecrypt index.html encrypted.html bran2025"
   },
   "eslintConfig": {
     "extends": [
