@@ -1,5 +1,44 @@
 [
   {
+    "issue": 153,
+    "year": 205,
+    "month": 2,
+    "image": "/images/153.jpg",
+    "pdf": "/pdf/153.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "PRODUCTS",
+        "title": "新型コンチネンタルGT お客様の質問にはどう答える？"
+      },
+      {
+        "page": 2,
+        "category": "PRODUCTS",
+        "title": "新型コンチネンタルGT お客様の質問にはどう答える？"
+      },
+      {
+        "page": 3,
+        "category": "CASE STUDY",
+        "title": "さまざまな選択肢を用意 後期型に進化したポルシェ 911"
+      },
+      {
+        "page": 4,
+        "category": "HERITAGE",
+        "title": "ベントレー名車図鑑：8リッター W.O.自身が設計した最後のモデル"
+      },
+      {
+        "page": 5,
+        "category": "E-ACADEMY TOPICS",
+        "title": "製品やブランドの理解を深めるためにE-Academyをご活用ください"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "プラグインハイブリッド（PHEV）の特徴とカタログスペックの読み方"
+      }
+    ]
+  },
+  {
     "issue": 152,
     "year": 2024,
     "month": 12,
