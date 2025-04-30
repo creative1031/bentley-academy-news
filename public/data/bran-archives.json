@@ -1,7 +1,46 @@
 [
   {
+    "issue": 154,
+    "year": 2025,
+    "month": 4,
+    "image": "/images/154.jpg",
+    "pdf": "/pdf/154.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "BEYOND 100",
+        "title": "アースデイ 2025 ベントレーの環境への取り組み"
+      },
+      {
+        "page": 2,
+        "category": "PRODUCTS",
+        "title": "コンチネンタルGT/コンチネンタルGTC/フライングスパー 26MYのデリバティブごとの相違点とは？"
+      },
+      {
+        "page": 3,
+        "category": "CASE STUDY",
+        "title": "英国プレミアムブランドの注目モデル"
+      },
+      {
+        "page": 4,
+        "category": "HERITAGE",
+        "title": "S1 コンチネンタル フライングスパー H.J.マリナーも手掛けた4ドア版コンチネンタル"
+      },
+      {
+        "page": 5,
+        "category": "E-ACADEMY TOPICS",
+        "title": "製品やブランドの理解を深めるためにE-Academyをご活用ください"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "エンジンオイルの役割と指定オイルの重要性"
+      }
+    ]
+  },
+  {
     "issue": 153,
-    "year": 205,
+    "year": 2025,
     "month": 2,
     "image": "/images/153.jpg",
     "pdf": "/pdf/153.pdf",
