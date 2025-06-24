@@ -1,5 +1,44 @@
 [
   {
+    "issue": 155,
+    "year": 2025,
+    "month": 6,
+    "image": "/images/155.jpg",
+    "pdf": "/pdf/155.pdf",
+    "contents": [
+      {
+        "page": 1,
+        "category": "PRODUCTS",
+        "title": "新型ベンテイガ スピードの特徴"
+      },
+      {
+        "page": 2,
+        "category": "PRODUCTS",
+        "title": "新型ベンテイガ スピードの特徴"
+      },
+      {
+        "page": 3,
+        "category": "CASE STUDY",
+        "title": "'S'の名前を冠したSUVのフラッグシップ アストンマーティン DBX S"
+      },
+      {
+        "page": 4,
+        "category": "HERITAGE",
+        "title": "ベントレー名車図鑑：ブロワー（4 1/2リッター）最も強いインパクトを残した戦前のレーシングベントレー"
+      },
+      {
+        "page": 5,
+        "category": "E-ACADEMY TOPICS",
+        "title": "製品やブランドの理解を深めるためにE-Academyをご活用ください"
+      },
+      {
+        "page": 6,
+        "category": "PRODUCT KNOWLEDGE",
+        "title": "前後重量バランス50:50の意味するものと選ぶ理由とは"
+      }
+    ]
+  },
+  {
     "issue": 154,
     "year": 2025,
     "month": 4,
